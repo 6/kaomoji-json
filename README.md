@@ -21,5 +21,4 @@ JSON format:
 
 
 TODOs:
-- Remove duplicates (if any)
-- Automatically annotate かおもじ without annotations if possible (convert hankaku -> zenkaku, katakana -> hiragana)
+- Automatically annotate the unannotated かおもじ (convert hankaku -> zenkaku, katakana -> hiragana)

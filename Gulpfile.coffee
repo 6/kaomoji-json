@@ -8,6 +8,7 @@ IgnoredRowRegex = /^(ｊ|ｋ|!|かおすて)/
 
 gulp.task "(ﾟзﾟ)ｲｲﾝﾃﾞﾈｰﾉ?", (callback) ->
   faces = []
+  face_unique_keys = []
   for filePath in glob.sync("src/*.txt")
     data = iconv.decode(fs.readFileSync(filePath), "shift_jis")
     for row in data.split("\n")
@@ -16,6 +17,9 @@ gulp.task "(ﾟзﾟ)ｲｲﾝﾃﾞﾈｰﾉ?", (callback) ->
       rowParts.pop() # Pop off "顔文字"
       annotation = rowParts.shift()
       face = rowParts.join("")
+      face_unique_key = "#{annotation}#{face}"
+      continue  if face_unique_key in face_unique_keys
+      face_unique_keys.push(face_unique_key)
       faces.push({
         annotation: annotation
         face: face

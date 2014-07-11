@@ -1288,10 +1288,6 @@
     "face": "(ß„Dß)ºŞÙ§!!"
   },
   {
-    "annotation": "‚²‚é‚Ÿ",
-    "face": "(ß„Dß)ºŞÙ§!!"
-  },
-  {
     "annotation": "‚±‚ñ‚Ê‚Â‚í",
     "face": "(¥ƒÖ¥)ºİÇÂÜ"
   },
@@ -3357,10 +3353,6 @@
   },
   {
     "annotation": "‚æ‚Á",
-    "face": "(ƒĞ¥Í¥)ƒĞYO!!"
-  },
-  {
-    "annotation": "‚æ‚Á",
     "face": "(ƒĞß„tß)ƒĞYO!!"
   },
   {
@@ -3385,19 +3377,11 @@
   },
   {
     "annotation": "‚Ë[",
-    "face": "(*L¥„t¥)(¥„t¥`*)È°"
-  },
-  {
-    "annotation": "‚Ë[",
     "face": "(¡¥ƒÖ¥)(¥ƒÖ¥¡)È°"
   },
   {
     "annotation": "‚Ë[",
     "face": "(*L„t`)(L„t`*)È°"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(Lß„tß)(ß„tß`)È°"
   },
   {
     "annotation": "‚Ë[",
@@ -3442,10 +3426,6 @@
   {
     "annotation": "‚«‚è",
     "face": "(+¥`ƒÖ¥L)·Ø¯"
-  },
-  {
-    "annotation": "‚«‚è",
-    "face": "(`¥„t¥L)·Ø¯"
   },
   {
     "annotation": "‚Ç‚â",
@@ -3540,10 +3520,6 @@
     "face": "'`¨(*Lª`*¿"
   },
   {
-    "annotation": "‚Í‚¢",
-    "face": "'`¨(LÍ`¿"
-  },
-  {
     "annotation": "‚¤‚ñ",
     "face": "(*ß„tß)*¡_¡))³İ³İ"
   },
@@ -3574,10 +3550,6 @@
   {
     "annotation": "‚¤‚ñ",
     "face": "o(`¥„t¥L)o³İ!!"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "¡ß(ß^„D^ß)ß¡‚¨‚‹wwwwwwwwww"
   },
   {
     "annotation": "‚¨‚¯",
@@ -3618,10 +3590,6 @@
   {
     "annotation": "‚è‚å‚¤‚©‚¢",
     "face": "(L¥„D¥)U—¹‰ğI"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "—¹‰ğ¯I(¥Í¥)U"
   },
   {
     "annotation": "‚è‚å‚¤‚©‚¢",
@@ -3809,23 +3777,11 @@
   },
   {
     "annotation": "‚¦[",
-    "face": "(Lß„tß`)´°"
-  },
-  {
-    "annotation": "‚¦[",
     "face": "(¡¥ƒÃ¥¡)´°"
   },
   {
     "annotation": "‚¦[",
     "face": "(LG„tG`)´°"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "(L¥„t¥`)ÔÀŞ"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "(LG„tG`)ÔÀŞ"
   },
   {
     "annotation": "‚â‚¾",
@@ -3853,10 +3809,6 @@
   },
   {
     "annotation": "‚Ş[",
-    "face": "(L¥ƒÃ¥`)Ñ°"
-  },
-  {
-    "annotation": "‚Ş[",
     "face": "(`¥_¥L)Ñ-"
   },
   {
@@ -3878,10 +3830,6 @@
   {
     "annotation": "‚¿‚¥",
     "face": "(L¥ƒÃ¥`)Áª¯"
-  },
-  {
-    "annotation": "‚¿‚¥",
-    "face": "¥¤ƒÉÁª¯"
   },
   {
     "annotation": "‚ñ‚ñ",
@@ -4060,24 +4008,12 @@
     "face": "(Lß„Dß`)İÏ¯"
   },
   {
-    "annotation": "‚ñ‚Ü",
-    "face": "(ß„Dß)İÏ¯"
-  },
-  {
     "annotation": "‚Ô‚Á",
     "face": "(*ß„Dß)¥;'.¤¸ŞÊ¯"
   },
   {
     "annotation": "‚Ô‚Á",
     "face": "(*¥Í¥).*;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(*ßÍß)¥;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(LßƒÖß)¥*;'.¤ÌŞ¯"
   },
   {
     "annotation": "‚Ô‚Á",
@@ -4089,15 +4025,7 @@
   },
   {
     "annotation": "‚Ô‚Á",
-    "face": "(;ß;„w;ß;)ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
     "face": "(*¥„x¥).*;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ö[",
-    "face": "(L¥Í¥`)Í°"
   },
   {
     "annotation": "‚Ö[",
@@ -4134,10 +4062,6 @@
   {
     "annotation": "‚µ[‚ñ",
     "face": "¼-İ(¡-ƒÖ-¡)"
-  },
-  {
-    "annotation": "‚Û‚©[‚ñ",
-    "face": "(ß„tß)Îß¶°İ"
   },
   {
     "annotation": "‚Û‚©[‚ñ",
@@ -4181,27 +4105,11 @@
   },
   {
     "annotation": "‚ ‚ç‚ç",
-    "face": "(;ßÍß)±××c"
-  },
-  {
-    "annotation": "‚ ‚ç‚ç",
     "face": "(;-ä‡-)§Ø¬Ø¬"
   },
   {
     "annotation": "‚ ‚ç‚ç",
     "face": "‡”(ß„Dß;)±×Ï¯"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(L``)„¡ÔÚÔÚ"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(LÍ`)„¡ÔÚÔÚ"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(L„t`)„¡ÔÚÔÚ"
   },
   {
     "annotation": "‚¶[",
@@ -4329,10 +4237,6 @@
   },
   {
     "annotation": "‚Ğ‚»‚Ğ‚»",
-    "face": "Ë¿(L„t)Ë¿(L„t`)Ë¿(„t`)Ë¿"
-  },
-  {
-    "annotation": "‚Ğ‚»‚Ğ‚»",
     "face": "Ë¿Ë¿(*¥ä‡-)(-ä‡¥*)Ë¿Ë¿"
   },
   {
@@ -4389,10 +4293,6 @@
   },
   {
     "annotation": "‚½‚Ì‚Ş",
-    "face": "(lÍ¥)ÀÉÑ!"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
     "face": "ÀÉ„Ÿ„Ÿ„Ÿ(lÍ¥)„Ÿ„Ÿ„ŸÑ!!"
   },
   {
@@ -4438,10 +4338,6 @@
   {
     "annotation": "‚¢‚ç‚Ë",
     "face": "(L¥ƒÃ¥`)²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "(ß‡™ß)²×È"
   },
   {
     "annotation": "‚¢‚ç‚Ë",
@@ -4516,10 +4412,6 @@
     "face": "S(¥ƒÖ¥;)¶Ï¯Ã"
   },
   {
-    "annotation": "‚©‚Ü‚Á‚Ä",
-    "face": "S(¥„t¥`)¶Ï¯Ã"
-  },
-  {
     "annotation": "‚ ‚»‚Ú",
     "face": "(l¤V)ƒAƒ\ƒ{"
   },
@@ -4574,10 +4466,6 @@
   {
     "annotation": "‚Ë‚¥‚Ë‚¥",
     "face": "S(¥ƒÖ¥*)ÈªÈª"
-  },
-  {
-    "annotation": "‚Ë‚¥‚Ë‚¥",
-    "face": "S(¥„t¥`)ÈªÈª"
   },
   {
     "annotation": "‚Ë‚¥‚Ë‚¥",
@@ -4636,14 +4524,6 @@
     "face": "|ƒÖ¥¡)"
   },
   {
-    "annotation": "‚¿‚ç",
-    "face": "|ƒÖ¥`)"
-  },
-  {
-    "annotation": "‚³‚Á",
-    "face": "|œc»¯"
-  },
-  {
     "annotation": "‚Í‚µ‚é",
     "face": "¼“ñ“ñ“ñ(^ƒÖ^)“ñ½ÌŞ°İ"
   },
@@ -4678,14 +4558,6 @@
   {
     "annotation": "‚Í‚µ‚é",
     "face": "¤Q(^ƒÖ^)Q,ÌŞ°İ"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "„¯(^o^)„­O"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "O„¬(^o^)„®"
   },
   {
     "annotation": "‚ë‚Ş",
@@ -4773,15 +4645,7 @@
   },
   {
     "annotation": "‚³‚Ş[",
-    "face": "((((;ß„Dß))))»Ñ°"
-  },
-  {
-    "annotation": "‚³‚Ş[",
     "face": "»Ñ°(((L„t`)))ÌŞÙÌŞÙ"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "„¡[ß„tß]„¢¶·°İ"
   },
   {
     "annotation": "‚³‚Ş[",
@@ -4814,86 +4678,6 @@
   {
     "annotation": "‚ ‚Â[",
     "face": "±Â°(;ß;„D;ß;)ÎßÀÎßÀ"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "ô«'`«'`(o'„t')˜¸('„t'o)«'`«'`ô"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "o(ßÍß)oƒI¯R(ßÍß)Éƒn[!!"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "«'`®„ª„ª(¡¥ƒÖ¥)É„ª„ª©"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "‚¨‚Í‚æ‚¤ô(o'Í'o)É"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "R(*ßªß*)ÉƒIƒbƒn[!!"
-  },
-  {
-    "annotation": "‚¨‚Í",
-    "face": "(ƒmß„Dß)‚¨‚Í‚æ‚¤"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "|ƒÖ¥`)‚â‚Ÿ"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "‚â‚Ÿ(L¥ƒÖ¥`)"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "(=ßƒÖß)É‚¡‚å‚£"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "(=ßƒÖß)É¨®„Ÿ„Ÿ©"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "²®„ª„ª„ª„ª(=ßƒÖß)l(ßƒÖß=)„ª„ª„ª„ª©"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "(*LÍ`*)ÉÁ¬"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "(LÉƒÖÉ`)‚±‚ñ‚É‚¿cR(L¥Í¥`)É‚í‚Ÿ"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "‚¿‚á„Ÿ„ŸS(o'Í'o)ƒm„Ÿ„Ÿ‚§!!"
-  },
-  {
-    "annotation": "‚±‚ñ",
-    "face": "ƒnƒƒH`ô(¡¥ƒÖ¥¡)É"
-  },
-  {
-    "annotation": "‚Î‚ñ‚í",
-    "face": "‚±‚ñ‚Î‚ñ‚í[ô(†Í…)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚Î‚ñ‚í",
-    "face": "‚±‚ñ‚Î‚ñ‚ì(o'Í'o)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚Î‚ñ‚í",
-    "face": "‚±‚ñ‚Î‚ñ‚ÍI(*ßªß*)É"
-  },
-  {
-    "annotation": "‚Î‚ñ‚í",
-    "face": "(p*'v`*[+GoodEvening+]*'v`*q)"
-  },
-  {
-    "annotation": "‚Î‚ñ‚í",
-    "face": "‚±‚ñ‚Î‚ñ‚í[IS(LÍM)ƒm"
   },
   {
     "annotation": "‚¨‚Í‚Â",
@@ -4936,340 +4720,12 @@
     "face": "‚¨‚Ğ‚³‚Å‚·(¡¥ƒÖ¥¡)É"
   },
   {
-    "annotation": "‚æ‚ë",
-    "face": "(*Lä‡`)ÄŞ-¿Ş(‚ÁL¤`)‚Á))ÖÛÁ¸"
-  },
-  {
-    "annotation": "‚æ‚ë",
-    "face": "ÖÛ¼¸!!‡”(¡>„t<¡)U"
-  },
-  {
-    "annotation": "‚æ‚ë",
-    "face": "‚æ‚ë‚µ‚­(o¥ƒÖ¥)l(¥ƒÖ¥o)ƒl"
-  },
-  {
-    "annotation": "‚æ‚ë",
-    "face": "‚æ‚ë‚µ‚­I(*`L*)U"
-  },
-  {
-    "annotation": "‚æ‚ë",
-    "face": "ƒˆƒƒb(œ^Q^œ)ô"
-  },
-  {
-    "annotation": "‚æ‚ë",
-    "face": "‹X‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·<(__)>"
-  },
-  {
-    "annotation": "‚Ø‚±",
-    "face": "(o'Í')o__))Íßº"
-  },
-  {
-    "annotation": "‚Ø‚±",
-    "face": "(*¥ƒÖ¥)*__))Íßº"
-  },
-  {
-    "annotation": "‚Ø‚±",
-    "face": "(*ßªß)*__))Íßº"
-  },
-  {
-    "annotation": "‚Ø‚±",
-    "face": "„¬›))Íßº"
-  },
-  {
-    "annotation": "‚Ø‚±",
-    "face": "Q|P|›))Íßº"
-  },
-  {
-    "annotation": "‚¢‚ç‚Á‚µ‚á‚¢",
-    "face": "(*L¥Í¥)o[‚ä‚Á‚­‚è‚µ‚Ä‚¢‚Á‚Ä‚Ë]o(¥Í¥`*)"
-  },
-  {
-    "annotation": "‚¢‚ç‚Á‚µ‚á‚¢",
-    "face": "Q|P|›))‚¨‰z‚µ’¸‚«‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·"
-  },
-  {
-    "annotation": "‚¢‚ç‚Á‚µ‚á‚¢",
-    "face": "(*ÉLÍ`)É‚¢‚ç‚Á‚µ‚á[‚¢"
-  },
-  {
-    "annotation": "‚¢‚ç‚Á‚µ‚á‚¢",
-    "face": "‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚¹R(o'Í'o)É"
-  },
-  {
-    "annotation": "‚¢‚ç‚Á‚µ‚á‚¢",
-    "face": "(*É¥ƒÖ¥)É‚æ‚¤‚±‚»‚§"
-  },
-  {
-    "annotation": "‚½‚¾",
-    "face": "|¥ƒÖ¥¡)É‚½‚¾‚¢‚Ü"
-  },
-  {
-    "annotation": "‚½‚¾",
-    "face": "‚½‚¾‚¢‚ÜIƒÃ=ƒÃ=S(*ßªß)É"
-  },
-  {
-    "annotation": "‚½‚¾",
-    "face": "ÀÀŞ¨Ï„Ÿ„ŸR(¥Í¥)É„Ÿ„Ÿô"
-  },
-  {
-    "annotation": "‚½‚¾",
-    "face": "‚½‚¾‚¢‚ÜôR(L[`)É"
-  },
-  {
-    "annotation": "‚½‚¾",
-    "face": "Ã¹Ã¹ƒÃ=ƒÃ=S(*'Í')É‚½‚¾‚¢‚Ü"
-  },
-  {
-    "annotation": "‚¨‚©",
-    "face": "(*ÉL„D`)É‚¨‚©[I"
-  },
-  {
-    "annotation": "‚¨‚©",
-    "face": "(É`¥Í¥)É‚¨‚©‚¦‚è["
-  },
-  {
-    "annotation": "‚¨‚©",
-    "face": "(*É†Í)É‚¨‚©‚¦‚è["
-  },
-  {
-    "annotation": "‚¨‚©",
-    "face": "µ¶„Ÿ„Ÿ(¡¥ƒÖ¥¡)É„Ÿ„Ÿô"
-  },
-  {
-    "annotation": "‚¨‚©",
-    "face": "‚¨‚©‚¦‚è‚È‚³‚¢(†¤…)É"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚«‚Ü‚·",
-    "face": "s‚Á‚Ä‚«‚Ü‚·(¡¥ƒÖ¥¡)U"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚«‚Ü‚·",
-    "face": "²¯Ã·Ï¯(o'3'o)ÉÜ„ƒ„~„ˆ"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚«‚Ü‚·",
-    "face": "s‚Á‚Ä‚«‚Ü[‚·o(†¤…)o"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚«‚Ü‚·",
-    "face": "s‚­‚Ë‚¥(*†¤…)É¼))"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚«‚Ü‚·",
-    "face": "À‚«‚Ü‚·Îßİ¡¥*¥:ß(ƒÃ:)"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚ç",
-    "face": "(*`„DL)ƒm²¯Ãº¨"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚ç",
-    "face": "(*Éªß)b))¨¯Ã×¯À²"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚ç",
-    "face": "Q|P|›))‚¢‚Á‚Ä‚ç‚Á‚µ‚á‚¢‚Ü‚¹"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚ç",
-    "face": "ƒCƒbƒeƒ‰„Ÿ„Ÿ(*¥„D¥*)É„Ÿ„Ÿ!!!!"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚ç",
-    "face": "‚¢‚Á‚Ä‚ç‚Ÿ(*'¤'*)É))"
-  },
-  {
-    "annotation": "‚Î‚¢‚Î‚¢",
-    "face": "ƒÀ„…„v(o'ƒÖ'o)É¼ƒÀ„…„v"
-  },
-  {
-    "annotation": "‚Î‚¢‚Î‚¢",
-    "face": "byebyeS(GƒÖG)byebye"
-  },
-  {
-    "annotation": "‚Î‚¢‚Î‚¢",
-    "face": "ƒOƒbo(L¥3¥`)É))ƒoƒ@[ƒC"
-  },
-  {
-    "annotation": "‚Î‚¢‚Î‚¢",
-    "face": "ƒoƒBƒoƒBI(†¤…)É¼))"
-  },
-  {
-    "annotation": "‚Î‚¢‚Î‚¢",
-    "face": "‚Ù‚È„Ÿ„Ÿ(=ßƒÖß)É„Ÿ„Ÿƒb"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "(=ßƒÖß)É¼Ş¬¤ÏÀ!!"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "[Ä‰ïŠó–]]'Í'*)É))‚Ü‚½ƒlI"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "|‰ß‘a’n|ß„Dß*)ÉÏÀÈ¯"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "¥.*:+:(*L-„x)SeeYouAgain(ƒÃ-`*):+:*.¥"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "ÌØÌØ((S(¡¥„t¥¡)ÏÀÈ°ô"
-  },
-  {
-    "annotation": "‚Ü‚½‚Ë",
-    "face": "S(o'„t'o)ƒ}IS(o'ƒÖ'o)ƒ^IS(o'Í'o)ƒlI"
-  },
-  {
-    "annotation": "‚³‚æ‚¤‚È‚ç",
-    "face": "‚³‚æ‚¤‚È‚ç‚Ÿ¥ß¥(P„D`q¡)¥ß¥"
-  },
-  {
-    "annotation": "‚³‚æ‚¤‚È‚ç",
-    "face": "[â]v_v¡)É))‚³‚æ‚¤‚È‚ç"
-  },
-  {
-    "annotation": "‚³‚æ‚¤‚È‚ç",
-    "face": "(*'ª'*)É))‚³‚æ‚¤‚È‚ç"
-  },
-  {
-    "annotation": "‚³‚æ‚¤‚È‚ç",
-    "face": "»Ö`Å×`(G„tG)É¼"
-  },
-  {
-    "annotation": "‚³‚æ‚¤‚È‚ç",
-    "face": "‚³‚æ‚¤‚È‚ço(*'Í'*)É))"
-  },
-  {
     "annotation": "‚¨‚â‚·‚İ",
     "face": "(^o^)É‚¨‚â‚·‚İ["
   },
   {
-    "annotation": "‚¨‚â‚·‚İ",
-    "face": "(o'Í')oõ„ŸGood™night„Ÿõo('Í'o)"
-  },
-  {
-    "annotation": "‚¨‚â‚·‚İ",
-    "face": "(l'ƒÖ'*)‚¨‚â‚·‚İ"
-  },
-  {
-    "annotation": "‚¨‚â‚·‚İ",
-    "face": "|Qº|®'„t`*)Q‚éƒl"
-  },
-  {
-    "annotation": "‚¨‚â‚·‚İ",
-    "face": "‚¨‚â‚·‚İI(†¤…)T"
-  },
-  {
-    "annotation": "‚¨‚â‚·‚İ",
-    "face": "(*ß[ß*)É¼))‚¨‚â‚·‚İô"
-  },
-  {
-    "annotation": "‚¨‚Â",
-    "face": "(*LÉÍ`)µÂ¶Ú»[İ"
-  },
-  {
-    "annotation": "‚¨‚Â",
-    "face": "‚¨‚Â‚£‚£‚£‚£‚£I(*ß„Dß*)É"
-  },
-  {
-    "annotation": "‚¨‚Â",
-    "face": "µÂ¶Ú»ÏÃŞ¼À¯„¬›))Íßº"
-  },
-  {
-    "annotation": "‚¨‚Â",
-    "face": "‚¨”æ‚ê‚³‚Ü‚Ÿ[I(¡¥„t¥¡)É¼"
-  },
-  {
-    "annotation": "‚¨‚Â",
-    "face": "‰³ƒfƒXI‡”d(ß„tß*)"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "„¬(;ß‰vß;)Uƒh[ƒ‚"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "‚Ç‚àS(-Í-*)(*-Í-)É‚Ç‚à"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "ÄŞÓ((*'Í'l=l'Í'*))ÄŞÓ"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "‚Ç‚à(¥ƒÖl)‚Ç‚à"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "„¬›))±»Ş„ª„ª„ª„ª„ª½"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "R(o'„t'o)É±Ø¶Ş‡dô"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "»İ·­„Ÿ„ŸS(*'Í`*)É„Ÿ„Ÿô"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "„„„~„p„z„{„‰oƒÊ_Y(¥ƒÖ¥*)"
-  },
-  {
-    "annotation": "‚ ‚è",
-    "face": "(lƒÖ¥*)‚ ‚è‚ª‚Æ‚¤"
-  },
-  {
-    "annotation": "‚Ó‚è‚Ó‚è",
-    "face": "(†Í…)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚Ó‚è‚Ó‚è",
-    "face": "(o'Í'o)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚Ó‚è‚Ó‚è",
-    "face": "(L¥ƒÖ¥`)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚Ó‚è‚Ó‚è",
-    "face": "(*¥ƒÖ¥*)É))ÌØÌØ"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "(LÍ`ÉÉ™ÊßÁÊßÁÊßÁÊßÁ"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "(ß„DßÉÉ™ÊßÁÊßÁÊßÁÊßÁ"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "(*'„t'ÉÉŞ™ÊßÁÊßÁÊßÁ"
-  },
-  {
     "annotation": "‚¨‚ß",
     "face": "‚¨(¥Í¥)‚ß(¥Í¥)‚Å(¥Í¥)‚Æ(¥Í¥)‚¤I"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "(b`¥„D¥)b‚¨‚ß‚Å‡dô"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "µÒ„Ÿ„ŸS(o'Í`o)É„Ÿ„Ÿ!!"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "‚¨‚ß‚Å‚Æ‚¤(*¥ƒÖ¥*)É"
-  },
-  {
-    "annotation": "‚¨‚ß",
-    "face": "‚¨‚ß‚Å‚Æ[ô¥ß¥(PÍ`q)¥ß¥"
   },
   {
     "annotation": "‚Í‚ñ‚¹‚¢",
@@ -5281,155 +4737,11 @@
   },
   {
     "annotation": "‚²‚ß‚ñ",
-    "face": "|’Œ|R(L¥_`¥¡)”½Èc"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "(ß„¡¥¥ß)»°¾İ"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
     "face": "R(ß„tß;)½¯¤½Ï¿"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "(*ß‰vß)U»°¾İ"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "(L¥„t¥`)UºŞÒİÈ"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "‚²‚ß‚ñƒl(:D)|P|Q"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "ƒSƒƒ“ƒl¥ß¥(P„D`q¡)¥ß¥"
-  },
-  {
-    "annotation": "‚²‚ß‚ñ",
-    "face": "‹–‚µ‚ÄI(lƒÖ'*)‹–‚µ‚ÄI"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "(*ßÍß)UÃŞ¼"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "(*'„D')UÃŞ¼"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "(¡¥ƒÖ¥)UÃŞ¼"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "‡”d('Í'o)ÃŞ½!!"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "‡”d(ß„tß*)ÃŞ½!!"
-  },
-  {
-    "annotation": "‚Å‚·",
-    "face": "‚Å‚·(¡>„t<¡)U"
   },
   {
     "annotation": "‚Ü‚·",
     "face": "‚Ü‚·(*ß[ß*)T"
-  },
-  {
-    "annotation": "‚Ü‚·",
-    "face": "‚Ü‚·(*ßªß*)T"
-  },
-  {
-    "annotation": "‚Ü‚·",
-    "face": "‚Ü‚·(o'Í'o)T"
-  },
-  {
-    "annotation": "‚Ü‚·",
-    "face": "‚Ü‚·(¡¥ƒÖ¥¡)T"
-  },
-  {
-    "annotation": "‚¾[",
-    "face": "ÀŞ§„Ÿ„ŸR(¥Í¥*)É„Ÿ„Ÿ„Ÿ!!"
-  },
-  {
-    "annotation": "‚¾[",
-    "face": "ÀŞ§„ª„ªR(ß‰vß*)É„ª„ª„ª!!"
-  },
-  {
-    "annotation": "‚¾[",
-    "face": "S(¥Í¥o)ÉÀŞ[!!"
-  },
-  {
-    "annotation": "‚æ‚Á",
-    "face": "(ƒĞ'Í')ƒĞYO!!"
-  },
-  {
-    "annotation": "‚æ‚Á",
-    "face": "(ƒĞLÍ`)ƒĞYO!!"
-  },
-  {
-    "annotation": "‚æ‚Á",
-    "face": "(ƒĞ¥Í¥)ƒĞYO!!"
-  },
-  {
-    "annotation": "‚æ‚Á",
-    "face": "(ƒĞß„tß)ƒĞYO!!"
-  },
-  {
-    "annotation": "‚Ë‚Á",
-    "face": "d(¥„t¥¡)È¯"
-  },
-  {
-    "annotation": "‚Ë‚Á",
-    "face": "(lÍ'o)È¯"
-  },
-  {
-    "annotation": "‚Ë‚Á",
-    "face": "(l„tV)ƒlƒb"
-  },
-  {
-    "annotation": "‚Ë‚Á",
-    "face": "d(-Í-¡)È¯"
-  },
-  {
-    "annotation": "‚Ë‚Á",
-    "face": "d(ßÍß*)È¯"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(*L¥„t¥)(¥„t¥`*)È°"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(¡¥ƒÖ¥)(¥ƒÖ¥¡)È°"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(*L„t`)(L„t`*)È°"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(Lß„tß)(ß„tß`)È°"
-  },
-  {
-    "annotation": "‚Ë[",
-    "face": "(*ßªß)(ßªß*)È°"
-  },
-  {
-    "annotation": "‚Ú‚»",
-    "face": "(¡¥ƒÃ¥¡)ÎŞ¿¯"
-  },
-  {
-    "annotation": "‚Ú‚»",
-    "face": "(L-ƒÃ-`)ÎŞ¿¯"
-  },
-  {
-    "annotation": "‚Ú‚»",
-    "face": "(L¥„t¥`)ÎŞ¿¯"
   },
   {
     "annotation": "‚±‚µ‚å",
@@ -5446,62 +4758,6 @@
   {
     "annotation": "‚±‚µ‚å",
     "face": "(`¥É¡L¥)º¯¿Ø"
-  },
-  {
-    "annotation": "‚«‚è",
-    "face": "(-`„t-L)·Ø¯"
-  },
-  {
-    "annotation": "‚«‚è",
-    "face": "(+¥`ƒÖ¥L)·Ø¯"
-  },
-  {
-    "annotation": "‚«‚è",
-    "face": "(`¥„t¥L)·Ø¯"
-  },
-  {
-    "annotation": "‚Ñ‚µ",
-    "face": "(`¥ƒÖ¥L)UËŞ¼¯"
-  },
-  {
-    "annotation": "‚Ñ‚µ",
-    "face": "m9(¡¥„t¥¡)ËŞ¼¯"
-  },
-  {
-    "annotation": "‚Ñ‚µ",
-    "face": "m9(`„DL)ËŞ¼¯"
-  },
-  {
-    "annotation": "‚Ç‚â",
-    "face": "(`¥[¥L)ƒhƒ„I"
-  },
-  {
-    "annotation": "‚â[‚ñ",
-    "face": "Ô„ª„ª„ª„ª(*£Lª`)£„ª„ª„ª„ªİ"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "(ÉLÍ`*))±°È¯"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "(*ßªß))ÌÑÌÑ"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "ÌÑ((L„t`*)ÌÑ"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "(¡¥ƒÖ¥))ÌÑÌÑ"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "(*ß„Dß))ÌÑÌÑ"
-  },
-  {
-    "annotation": "‚Ó‚Ş‚Ó‚Ş",
-    "face": "(o'Í'))ÌÑÌÑ"
   },
   {
     "annotation": "‚Ù‚Ù‚¤",
@@ -5528,22 +4784,6 @@
     "face": "(ß„Dß)É§¨"
   },
   {
-    "annotation": "‚Í‚¢",
-    "face": "(*'„x`)É'`ƒB"
-  },
-  {
-    "annotation": "‚Í‚¢",
-    "face": "(¡¥ƒÖ¥)É'`ƒB"
-  },
-  {
-    "annotation": "‚Í‚¢",
-    "face": "'`¨(*Lª`*¿"
-  },
-  {
-    "annotation": "‚Í‚¢",
-    "face": "'`¨(LÍ`¿"
-  },
-  {
     "annotation": "‚Í[‚¢",
     "face": "YE„ª„ª„ª„ªd(ßÍß)b„ª„ª„ª„ªS!!"
   },
@@ -5564,26 +4804,6 @@
     "face": "(L¥Í¥)Éƒn[ƒB"
   },
   {
-    "annotation": "‚¤‚ñ",
-    "face": "(*L¥„t¥)*L¡_¡)©Ğ­"
-  },
-  {
-    "annotation": "‚¤‚ñ",
-    "face": "(*ßªß)*__)©İ"
-  },
-  {
-    "annotation": "‚¤‚ñ",
-    "face": "(*p'Í'q)©İ"
-  },
-  {
-    "annotation": "‚¤‚ñ",
-    "face": "(*pßªßq)©İ"
-  },
-  {
-    "annotation": "‚¤‚ñ",
-    "face": "o(`¥„t¥L)o³İ!!"
-  },
-  {
     "annotation": "‚¤‚ñ‚¤‚ñ",
     "face": "(*ß„tß)*¡_¡))³İ³İ"
   },
@@ -5594,86 +4814,6 @@
   {
     "annotation": "‚¤‚ñ‚¤‚ñ",
     "face": "‚£‚ñ((L„t`*)‚£‚ñ"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "¡ß(ß^„D^ß)ß¡‚¨‚‹wwwwwwwwww"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "c(LƒÖ`o)ƒHƒ–"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "c(-Í-*)o„{"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "d((oßc_,ßo))µ¯¹ª–qêô"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "(*`„tL)bµ¯¹°"
-  },
-  {
-    "annotation": "‚¨‚¯",
-    "face": "c(^Í^*)ƒHƒ–"
-  },
-  {
-    "annotation": "‚³‚ñ‚¹‚¢",
-    "face": "(¡¥„t¥)o))ÀŞÅ"
-  },
-  {
-    "annotation": "‚³‚ñ‚¹‚¢",
-    "face": "^¬I(*L„t`*¿"
-  },
-  {
-    "annotation": "‚³‚ñ‚¹‚¢",
-    "face": "^¬I(*Lª`*¿"
-  },
-  {
-    "annotation": "‚³‚ñ‚¹‚¢",
-    "face": "^¬I(LÍ`¿"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "(L¥„D¥)U—¹‰ğI"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "—¹‰ğ¯I(¥Í¥)U"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "(ßß)U—¹‰ğô"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "(*É'„t`)×ÁŞ¬!!"
-  },
-  {
-    "annotation": "‚è‚å‚¤‚©‚¢",
-    "face": "—¹‰ğ¯I(*ßƒÃß*)É"
-  },
-  {
-    "annotation": "‚¢‚¦‚¢‚¦",
-    "face": "SÉ¥Í¥`)²´²´"
-  },
-  {
-    "annotation": "‚¢‚¦‚¢‚¦",
-    "face": "SÉßÍß*)²´²´"
-  },
-  {
-    "annotation": "‚¢‚¦‚¢‚¦",
-    "face": "SÉ'Í'o)²ª²ª"
-  },
-  {
-    "annotation": "‚¢‚¦‚¢‚¦",
-    "face": "SÉ†Í…)²´²´!!"
-  },
-  {
-    "annotation": "‚¢‚¦‚¢‚¦",
-    "face": "SÉ¥ƒÖ¥¡)²ª²ª"
   },
   {
     "annotation": "‚Ó‚é‚Ó‚é",
@@ -5688,66 +4828,6 @@
     "face": "((¥ƒÖ¥`*ß*L¥ƒÖ¥))ÌÙÌÙ"
   },
   {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉ'„t'o)È°ƒ"
-  },
-  {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉ¥`ƒÖ¥)È°ƒ"
-  },
-  {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉß„Dß*)È°ƒ"
-  },
-  {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉßªß*)Å²Å²"
-  },
-  {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉ¥„t¥)Å²Å²"
-  },
-  {
-    "annotation": "‚È‚¢‚È‚¢",
-    "face": "SÉßƒÖß)Å²Å²"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "(ß„Dß)ƒĞˆÙ‹c±Ø"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "²¸Å„ª„ª„ª„ª(ßAß)„ª„ª„ª„ª²!!!!"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "(¥A¥)²¸Å²!!"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "”½‘ÎI(*¥„t¥¿"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "(˜§'ƒÖ'*)”½‘ÎI"
-  },
-  {
-    "annotation": "‚Í‚ñ‚½‚¢",
-    "face": "(˜§¥„t¥L)”½‘ÎI"
-  },
-  {
-    "annotation": "‚Ş‚è",
-    "face": "–³—(L¥Í¥)„¡"
-  },
-  {
-    "annotation": "‚Ş‚è",
-    "face": "ÎİÄo(ß„Dß)‚ÁÓÑ°ØI"
-  },
-  {
-    "annotation": "‚Ş‚è",
-    "face": "(*>„t<*)ÑØ°I"
-  },
-  {
     "annotation": "‚Ş‚è‚Ş‚è",
     "face": "SÉ>„t<¡)ƒ€ƒŠƒ€ƒŠ"
   },
@@ -5760,216 +4840,8 @@
     "face": "SÉ'„t'o)‡_‡_"
   },
   {
-    "annotation": "‚¾‚ß",
-    "face": "(˜§Í¥)ƒ_ƒ"
-  },
-  {
-    "annotation": "‚¾‚ß",
-    "face": "(˜§¥_¥L)ƒ_ƒª°"
-  },
-  {
-    "annotation": "‚¾‚ß",
-    "face": "(˜§`ªL*)ƒ_ƒI"
-  },
-  {
-    "annotation": "‚«‚á‚Á‚©",
-    "face": "‹p‰º(*L¥Í¥)„¡"
-  },
-  {
-    "annotation": "‚«‚á‚Á‚©",
-    "face": "‹p‰º(L¥3¥`)„¡"
-  },
-  {
-    "annotation": "‚«‚á‚Á‚©",
-    "face": "‹p‰º(*^„t^)„¡"
-  },
-  {
-    "annotation": "‚±‚Æ‚í‚é",
-    "face": "ºÄÜÙ·¯¸!!(˜§Í¥)„¡„®)`„t)¥;'.¤"
-  },
-  {
-    "annotation": "‚±‚Æ‚í‚é",
-    "face": "Q|P|›µºÄÜØ¼Ï½"
-  },
-  {
-    "annotation": "‚±‚Æ‚í‚é",
-    "face": "(ßƒÖß)‚¨’f‚è‚µ‚Ü‚·"
-  },
-  {
-    "annotation": "‚ ‚¤‚Æ",
-    "face": "¼ƒ~½^ƒÖ^)±³±³"
-  },
-  {
-    "annotation": "‚ ‚¤‚Æ",
-    "face": "(˜§`„tL)ƒAƒEƒg"
-  },
-  {
-    "annotation": "‚ ‚¤‚Æ",
-    "face": "ƒAƒEƒg(L¥„x¥)„¡"
-  },
-  {
-    "annotation": "‚ ‚¤‚Æ",
-    "face": "ƒAƒEƒg(o'„t')„¡"
-  },
-  {
-    "annotation": "‚ ‚¤‚Æ",
-    "face": "SÉL¥ƒÖ¥)±©Ä±©Ä"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(L¥„t¥`)´°"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(L¥ƒÃ¥`)´°"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(L¥_¥`)´-"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(Lß„tß`)´°"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(¡¥ƒÃ¥¡)´°"
-  },
-  {
-    "annotation": "‚¦[",
-    "face": "(LG„tG`)´°"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "(L¥„t¥`)ÔÀŞ"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "(LG„tG`)ÔÀŞ"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "¥.*:+:(n'„D')ƒÅ²ÔÀŞÜ§:+:*.¥"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "ÔÀŞ((S(*>_<*)É))ÔÀŞ"
-  },
-  {
-    "annotation": "‚â‚¾",
-    "face": "S(†„D…)ÉÔÀŞÔÀŞ"
-  },
-  {
-    "annotation": "‚Ş[",
-    "face": "(*¥ƒÃ¥*)‚Ş‚£"
-  },
-  {
-    "annotation": "‚Ş[",
-    "face": "(L¥ƒÃ¥`)Ñ°"
-  },
-  {
-    "annotation": "‚Ş[",
-    "face": "(`¥_¥L)Ñ-"
-  },
-  {
-    "annotation": "‚à[",
-    "face": "(L¥_¥`)Ó°"
-  },
-  {
-    "annotation": "‚à[",
-    "face": "(*L¥„x¥`)‚à‚§"
-  },
-  {
-    "annotation": "‚à[",
-    "face": "(L¥ƒÃ`¥)Ó°"
-  },
-  {
-    "annotation": "‚¿‚¥",
-    "face": "(¡¥„t¥¡)Á¯"
-  },
-  {
-    "annotation": "‚¿‚¥",
-    "face": "(L¥ƒÃ¥`)Áª¯"
-  },
-  {
-    "annotation": "‚¿‚¥",
-    "face": "¥¤ƒÉÁª¯"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(LßƒÖß)ÅÆƒ•H"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(L¥„t¥)‚È‚É‚©?"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(ß„Dß)ÅÆ¶?"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(*ßªß)İH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(L¥„t¥)İH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(*LƒÖ`)İH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(*¥ƒÖ¥*)‚ñH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(¡¥„D¥¡)§İH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(*L-ƒÖ¥)İH"
-  },
-  {
-    "annotation": "‚ñ‚ñ",
-    "face": "(¡L-_¥)İH"
-  },
-  {
     "annotation": "‚³‚Ÿ",
     "face": "(L[`)ƒVƒ‰ƒl[ƒˆ"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "„¢(L„t`)„¡Doyoukotoyanen?"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "|®ß„tß`)¡oO(ˆÓ–¡•s–¾)"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "‚í‚©‚ñ‚È‚¢(L¥„t¥`)U"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "(L¥ƒÖ¥`)’m‚ç‚ñ‚ª‚È"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "(ß‡™ß)¼×È"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "(o'„t'o)»§H"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "(úVªúV)‚³‚ŸH"
-  },
-  {
-    "annotation": "‚³‚Ÿ",
-    "face": "‚³‚ŸH(¡¥„D¥¡)"
   },
   {
     "annotation": "‚ñ[",
@@ -5981,15 +4853,7 @@
   },
   {
     "annotation": "‚ñ[",
-    "face": "(L¥ƒÖ¥)y-~´Äc"
-  },
-  {
-    "annotation": "‚ñ[",
     "face": "ƒĞ(-ƒÃ-`)³°İ"
-  },
-  {
-    "annotation": "‚ñ[",
-    "face": "(;`¥_¥L)İ-"
   },
   {
     "annotation": "‚ñ[",
@@ -6000,168 +4864,8 @@
     "face": "(LƒÃ`;)³°İ"
   },
   {
-    "annotation": "‚ñ[",
-    "face": "(¡-`ƒÖL-)İ°c"
-  },
-  {
-    "annotation": "‚ñ[",
-    "face": "(Lª`)İ-c"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(†¤…)b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(LÍ`)b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(*L„D`)b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(o'„t')b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(*Éªß)b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "(¡¥ƒÖ¥)b"
-  },
-  {
-    "annotation": "‚Á‚‚",
-    "face": "„Œ(ß„Dß)"
-  },
-  {
-    "annotation": "‚ñ‚Ü",
-    "face": "(¡¥„D¥¡)İÏ¯"
-  },
-  {
-    "annotation": "‚ñ‚Ü",
-    "face": "(Lß„Dß`)İÏ¯"
-  },
-  {
-    "annotation": "‚ñ‚Ü",
-    "face": "(ß„Dß)İÏ¯"
-  },
-  {
     "annotation": "‚Ô‚Á",
     "face": "(*ß„Dß)¥;'.¤¸ŞÊ¯!!"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(*¥Í¥).*;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(*ßÍß)¥;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(LßƒÖß)¥*;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(oßªß)¥;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "((oLªß)).;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(;ß;„w;ß;)ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ô‚Á",
-    "face": "(*¥„x¥).*;'.¤ÌŞ¯"
-  },
-  {
-    "annotation": "‚Ö[",
-    "face": "(L¥Í¥`)Í°"
-  },
-  {
-    "annotation": "‚Ö[",
-    "face": "(úVªúV)Í°"
-  },
-  {
-    "annotation": "‚Ö[",
-    "face": "(*¥Í¥*)Í°"
-  },
-  {
-    "annotation": "‚Ó[‚ñ",
-    "face": "(¥ƒÃ¥)Ì°İ"
-  },
-  {
-    "annotation": "‚Ó[‚ñ",
-    "face": "Ì-('.'o)-İ"
-  },
-  {
-    "annotation": "‚Ó[‚ñ",
-    "face": "Ì°İ_(:3ÜŞ)_ÎßØÎßØ"
-  },
-  {
-    "annotation": "‚Ó[‚ñ",
-    "face": "(¡¥_¥¡)Ì°İ"
-  },
-  {
-    "annotation": "‚µ[‚ñ",
-    "face": "(L-_-`)¼°İ"
-  },
-  {
-    "annotation": "‚µ[‚ñ",
-    "face": "(L¥ƒÖ¥`)¼°İ"
-  },
-  {
-    "annotation": "‚µ[‚ñ",
-    "face": "¼-İ(¡-ƒÖ-¡)"
-  },
-  {
-    "annotation": "‚Û‚©[‚ñ",
-    "face": "(ß„tß)Îß¶°İ"
-  },
-  {
-    "annotation": "‚Û‚©[‚ñ",
-    "face": "(ß.ß)Îß¶°İ"
-  },
-  {
-    "annotation": "‚Û‚©[‚ñ",
-    "face": "Îß¶„Ÿ„Ÿ(ß„tß)„Ÿ„Ÿİ"
-  },
-  {
-    "annotation": "‚³‚Ô‚¢",
-    "face": "œc(ßƒÃß;)œcË­°Ë­°"
-  },
-  {
-    "annotation": "‚³‚Ô‚¢",
-    "face": "œc(-ƒÖ-;)œcË­°Ë­°"
-  },
-  {
-    "annotation": "‚³‚Ô‚¢",
-    "face": "œc(ß‰vß;)œcË­°Ë­°"
-  },
-  {
-    "annotation": "‚ ‚¿‚á[",
-    "face": "ÅİÃº¯À^(^o^)_"
-  },
-  {
-    "annotation": "‚ ‚¿‚á[",
-    "face": "(*ÉƒÃ`*)±Á¬°"
-  },
-  {
-    "annotation": "‚ ‚¿‚á[",
-    "face": "(*ÉƒÖ¥*)±Á¬-"
-  },
-  {
-    "annotation": "‚ ‚¿‚á[",
-    "face": "‡”(ƒmÍ`*)±Á¬°"
-  },
-  {
-    "annotation": "‚ ‚ç‚Ü",
-    "face": "(L¥Í¥`)±×Ï§"
   },
   {
     "annotation": "‚ ‚ç‚Ü",
@@ -6170,122 +4874,6 @@
   {
     "annotation": "‚ ‚ç‚Ü",
     "face": "(;-ä‡-)§Ø¬Ø¬"
-  },
-  {
-    "annotation": "‚ ‚ç‚Ü",
-    "face": "‡”(ß„Dß;)±×Ï¯"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(L``)„¡ÔÚÔÚ"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(LÍ`)„¡ÔÚÔÚ"
-  },
-  {
-    "annotation": "‚â‚ê‚â‚ê",
-    "face": "„¢(L„t`)„¡ÔÚÔÚ"
-  },
-  {
-    "annotation": "‚¶[",
-    "face": "|ß„tß)‚Ÿ‚áƒÇ‚¡"
-  },
-  {
-    "annotation": "‚¶[",
-    "face": "-¥--¥-¼Ş¨°¯"
-  },
-  {
-    "annotation": "‚¶[",
-    "face": "|®ƒÖ¥)¼Ş¨°¯"
-  },
-  {
-    "annotation": "‚¶[",
-    "face": "¼Ş¨°¯(úVªúV)"
-  },
-  {
-    "annotation": "‚¶[",
-    "face": "(¡¥_¥¡)¼Ş¨°¯"
-  },
-  {
-    "annotation": "‚¨‚¢‚¨‚¢",
-    "face": "S(¥„t¥`)ƒHƒBƒHƒB"
-  },
-  {
-    "annotation": "‚¨‚¢‚¨‚¢",
-    "face": "S(ßƒÃß)ƒHƒBƒHƒB"
-  },
-  {
-    "annotation": "‚¨‚¢‚¨‚¢",
-    "face": "S(-ƒÃ-;)ƒHƒBƒHƒB"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(*'ƒÖ'*)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(o'Í'o)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(*ßªß*)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(ßÍß)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(*L„t`*)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(LÍ`)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(¡¥ƒÖ¥¡)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(L¥_¥`)"
-  },
-  {
-    "annotation": "‚İ[",
-    "face": "ƒĞ(†Í…)"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "m9(o'Í'o)"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "m9(¥Í¥)ÄŞ°İ"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "m9(ß„Dß)ÄŞ°İ"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "ÄŞ„ª„ª„ªm9(LÍ`)„ª„ª„ªİ!!"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "(*LÍ`)ƒĞ"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "(L¥„t¥)ƒĞ"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "(*¥ƒÖ¥)ƒĞ"
-  },
-  {
-    "annotation": "‚ä[",
-    "face": "(*ßªß)ƒĞ"
   },
   {
     "annotation": "‚µ[",
@@ -6312,24 +4900,8 @@
     "face": "º¯Á®Ø(L„t)(L„t`)(„t`)º¯Á®Ø"
   },
   {
-    "annotation": "‚Ğ‚»‚Ğ‚»",
-    "face": "Ë¿Ë¿(*¥ƒÖ-)(-ƒÖ¥*)Ë¿Ë¿"
-  },
-  {
-    "annotation": "‚Ğ‚»‚Ğ‚»",
-    "face": "Ë¿(L„t)Ë¿(L„t`)Ë¿(„t`)Ë¿"
-  },
-  {
-    "annotation": "‚Ğ‚»‚Ğ‚»",
-    "face": "Ë¿Ë¿(*¥ä‡-)(-ä‡¥*)Ë¿Ë¿"
-  },
-  {
     "annotation": "‚µ‚å‚Ú[‚ñ",
     "face": "(L¥_¥`)¼®ÎŞİ"
-  },
-  {
-    "annotation": "‚µ‚å‚Ú[‚ñ",
-    "face": "(L¥ƒÖ¥`)¼®ÎŞ°İ"
   },
   {
     "annotation": "‚µ‚å‚Ú[‚ñ",
@@ -6362,10 +4934,6 @@
   {
     "annotation": "‚¢‚¶‚¢‚¶",
     "face": "¨¼Ş¨¼Ş(;L-„t-)ƒĞ@"
-  },
-  {
-    "annotation": "‚µ‚ã‚ñ",
-    "face": "|ƒÖ¥`)¼­İ"
   },
   {
     "annotation": "‚µ‚ã‚ñ",
@@ -6408,10 +4976,6 @@
     "face": "(L¥_¥`)¶Ş¯¶Ø"
   },
   {
-    "annotation": "‚ª‚Á‚©‚è",
-    "face": "(L¥ƒÖ¥`)¶Ş¯¶Ø"
-  },
-  {
     "annotation": "‚±‚Ë[",
     "face": "ºÅ„ª„ª„ª„ª(ßAß)„ª„ª„ª„ª²!!"
   },
@@ -6422,14 +4986,6 @@
   {
     "annotation": "‚±‚Ë[",
     "face": "ºÈ„ª„ª„ª„ª(ß„tß;)„ª„ª„ª„ª!!"
-  },
-  {
-    "annotation": "‚±‚Ë[",
-    "face": "ºÈ„ª„ª„ª„ª('A`)„ª„ª„ª„ªc"
-  },
-  {
-    "annotation": "‚±‚Ë[",
-    "face": "ºÈ„ª„ª„ª„ªÉ(¡‚`¡)R„ª„ª„ª„ªiiii"
   },
   {
     "annotation": "‚¿[‚ñ",
@@ -6489,10 +5045,6 @@
   },
   {
     "annotation": "‚¸‚±",
-    "face": "P|Q|›½ŞºI"
-  },
-  {
-    "annotation": "‚¸‚±",
     "face": "„¡„®„¡„®½ŞºI"
   },
   {
@@ -6514,10 +5066,6 @@
   {
     "annotation": "‚Î‚½",
     "face": "0(:3)`('¤3_R)_"
-  },
-  {
-    "annotation": "‚Î‚½",
-    "face": "„¯„¢„¯„¢ÊŞÀ¯"
   },
   {
     "annotation": "‚Î‚½",
@@ -6557,10 +5105,6 @@
   },
   {
     "annotation": "‚Ó‚£",
-    "face": "(RLƒÖ`)Ì©-3"
-  },
-  {
-    "annotation": "‚Ó‚£",
     "face": "ƒÃ-(ß„tß`;)Ì©c"
   },
   {
@@ -6580,10 +5124,6 @@
     "face": "ƒÃ-(¥„t¥`;)Ì©c"
   },
   {
-    "annotation": "‚Æ‚Ú‚Æ‚Ú",
-    "face": "|oŒû|ƒÉ.......ÄÎŞÄÎŞ"
-  },
-  {
     "annotation": "‚Æ‚Ù‚Ù",
     "face": "ÄÎÎ(;L„t`)ƒm|’Œ|"
   },
@@ -6594,14 +5134,6 @@
   {
     "annotation": "‚¤‚Â",
     "face": "Í×¯Ã·À§c('¤3_R)_"
-  },
-  {
-    "annotation": "‚¤‚Â",
-    "face": "(-Q-)"
-  },
-  {
-    "annotation": "‚¤‚Â",
-    "face": "³Â„ª„ª„ª„ª(-Q-)„ª„ª„ª„ª!!!!"
   },
   {
     "annotation": "‚¤‚Â",
@@ -6625,10 +5157,6 @@
   },
   {
     "annotation": "‚Ü‚ñ‚Ç‚­‚¹",
-    "face": "('A`)ÏİÄŞ¸¾"
-  },
-  {
-    "annotation": "‚Ü‚ñ‚Ç‚­‚¹",
     "face": "ÏİÄŞ¸¾('¤„x)‚ÁÜ‚Á"
   },
   {
@@ -6646,18 +5174,6 @@
   {
     "annotation": "‚à‚¤‚¾‚ß‚Û",
     "face": "Ó³ÀŞÒÎßcQœ^|Q"
-  },
-  {
-    "annotation": "‚¨‚í‚½",
-    "face": "_(^o^)^"
-  },
-  {
-    "annotation": "‚¨‚í‚½",
-    "face": "|©÷ŠC|µÜÀ„¯(^o^)„­O"
-  },
-  {
-    "annotation": "‚¨‚í‚½",
-    "face": "_(^o^)^µÜÀ"
   },
   {
     "annotation": "‚í[‚¢",
@@ -6749,15 +5265,7 @@
   },
   {
     "annotation": "‚¨‚Á",
-    "face": "(^ƒÖ^)‚¨‚Á‚¨‚Á‚¨‚Á"
-  },
-  {
-    "annotation": "‚¨‚Á",
     "face": "(*ßªß*)‚¨H"
-  },
-  {
-    "annotation": "‚¨‚Á",
-    "face": "‚¨H(¥Í¥)"
   },
   {
     "annotation": "‚¨‚Á",
@@ -6766,10 +5274,6 @@
   {
     "annotation": "‚¨‚Á",
     "face": "(*¥ƒÖ¥*)‚¨H"
-  },
-  {
-    "annotation": "‚¨‚Á",
-    "face": "‚¨H(ßÍß)"
   },
   {
     "annotation": "‚¨‚Á",
@@ -6877,10 +5381,6 @@
   },
   {
     "annotation": "‚Ò[‚·",
-    "face": "™(TƒÖ¥)v·¬Ëß"
-  },
-  {
-    "annotation": "‚Ò[‚·",
     "face": "v(*-Í¥*)ƒs[ƒX"
   },
   {
@@ -6893,31 +5393,11 @@
   },
   {
     "annotation": "‚Ù‚Á",
-    "face": "(*LÍ`*)Î¯-‚R"
-  },
-  {
-    "annotation": "‚Ù‚Á",
     "face": "(¡¥Í¥¡)Î¯-‚R"
-  },
-  {
-    "annotation": "‚ ‚°",
-    "face": "(LÍ`¿)ªageª"
-  },
-  {
-    "annotation": "‚«‚á‚Á‚«‚á",
-    "face": "S(*LÍ`*)É·¬¯·¬ô"
-  },
-  {
-    "annotation": "‚«‚ã‚ñ‚«‚ã‚ñ",
-    "face": "(¥Í¥)·­İ·­İ"
   },
   {
     "annotation": "‚«‚ã‚ñ‚«‚ã‚ñ",
     "face": "(‚ÁLÍ`c)·­İ·­°İ"
-  },
-  {
-    "annotation": "‚«‚ã‚ñ‚«‚ã‚ñ",
-    "face": "(ßÍß)·­İ·­İ"
   },
   {
     "annotation": "‚¤‚í[‚ñ",
@@ -6968,10 +5448,6 @@
     "face": "Ü„Ÿ„Ÿ¡ß(¡p„tq¡)ß¡„Ÿ„Ÿİ!!"
   },
   {
-    "annotation": "‚í[‚ñ",
-    "face": "¥ß¥(É„D`)¥ß¥Ü°İ"
-  },
-  {
     "annotation": "‚¦[‚ñ",
     "face": "(‚Â„D`)³ª°İ"
   },
@@ -6997,19 +5473,11 @@
   },
   {
     "annotation": "‚¤‚Á",
-    "face": "(L;ƒÖ;`)³¯"
-  },
-  {
-    "annotation": "‚¤‚Á",
     "face": "(¡É_¥¡)³¯"
   },
   {
     "annotation": "‚¤‚Á",
     "face": "(`GƒÖGL)³¯"
-  },
-  {
-    "annotation": "‚¤‚Á",
-    "face": "(LGƒÖG`)³¯"
   },
   {
     "annotation": "‚¤‚Á",
@@ -7022,10 +5490,6 @@
   {
     "annotation": "‚¤‚Á",
     "face": "(LG„tG`)³¯"
-  },
-  {
-    "annotation": "‚Ô‚í",
-    "face": "(LGƒÖG`)ÌŞÜ¯"
   },
   {
     "annotation": "‚Ô‚í",
@@ -7082,10 +5546,6 @@
   {
     "annotation": "‚¤‚»‚È‚«",
     "face": "´°İ¡ß(*ÉƒÖÉ)ß¡Á×¯(*ÉƒÖß)T"
-  },
-  {
-    "annotation": "‚¤‚»‚È‚«",
-    "face": "(‚Â„t¼)³´°İ(‚Â„t¥)Á×"
   },
   {
     "annotation": "‚¤‚é‚¤‚é",
@@ -7165,10 +5625,6 @@
   },
   {
     "annotation": "‚Û‚Á",
-    "face": "(*LÍ`*)Îß¯"
-  },
-  {
-    "annotation": "‚Û‚Á",
     "face": "(*Lª`*)Îß¯"
   },
   {
@@ -7233,10 +5689,6 @@
   },
   {
     "annotation": "‚¢‚â‚ñ",
-    "face": "(*/Í_*)²Ôİ"
-  },
-  {
-    "annotation": "‚¢‚â‚ñ",
     "face": "²Ô„Ÿ„Ÿ(*É„xÉ*)„Ÿ„Ÿİ"
   },
   {
@@ -7262,10 +5714,6 @@
   {
     "annotation": "‚à‚¶‚à‚¶",
     "face": "Ó¼ŞÓ¼Ş(*É3É)"
-  },
-  {
-    "annotation": "‚à‚¶‚à‚¶",
-    "face": "Ó¼Ş((LƒÖ`*)(*LƒÖ`))Ó¼Ş"
   },
   {
     "annotation": "‚à‚¶‚à‚¶",
@@ -7345,19 +5793,7 @@
   },
   {
     "annotation": "‚Í‚Ÿ‚Í‚Ÿ",
-    "face": "'`§,¤§(*L„D`*)'`§,¤§"
-  },
-  {
-    "annotation": "‚Í‚Ÿ‚Í‚Ÿ",
     "face": "(*L‰v`*)Ê§Ê§/l§/l§/R§/R§"
-  },
-  {
-    "annotation": "‚Í‚Ÿ‚Í‚Ÿ",
-    "face": "(;L„D`)Ê§Ê§(*L„D`)/|ƒ@/|ƒ@(*`„DL)^/ƒA^/ƒAI"
-  },
-  {
-    "annotation": "‚Í‚Ÿ‚Í‚Ÿ",
-    "face": "(*L„t`*)Ê§Ê§"
   },
   {
     "annotation": "‚ [‚ñ",
@@ -7386,10 +5822,6 @@
   {
     "annotation": "‚Ä‚ê‚é[",
     "face": "(ƒmÍV)ÃÚÙÖ°"
-  },
-  {
-    "annotation": "‚¢‚â‚Ÿ",
-    "face": "(Í`*)U²Ô§"
   },
   {
     "annotation": "‚¢‚â‚Ÿ",
@@ -7485,10 +5917,6 @@
   },
   {
     "annotation": "‚¢‚ç‚¢‚ç",
-    "face": "(#ß„Dß)y-~²×²×"
-  },
-  {
-    "annotation": "‚¢‚ç‚¢‚ç",
     "face": "²×²×²×(((*`ML*)))²×²×²×"
   },
   {
@@ -7502,10 +5930,6 @@
   {
     "annotation": "‚Ş‚©",
     "face": "(#ß„Dß)Ñ¯¶°"
-  },
-  {
-    "annotation": "‚Ş‚©",
-    "face": "(#¥Í¥)Ñ¶¯"
   },
   {
     "annotation": "‚Ş‚©",
@@ -7592,10 +6016,6 @@
     "face": "(#ß„tß)¤Íß¯"
   },
   {
-    "annotation": "‚Ø‚Á",
-    "face": "¶°¯(ß„Dßßß„tß)¤Íß¯"
-  },
-  {
     "annotation": "‚Ï‚ñ‚¿",
     "face": "(*'„t')‚Â);`„DL)¸ŞØ¸ŞØ"
   },
@@ -7646,10 +6066,6 @@
   {
     "annotation": "‚Ç‚«",
     "face": "ÄŞ·¯((*ß„tß*))"
-  },
-  {
-    "annotation": "‚Ç‚«",
-    "face": "‡”(*LÍ`*)ÄŞ·¯"
   },
   {
     "annotation": "‚Ç‚«",
@@ -7729,15 +6145,7 @@
   },
   {
     "annotation": "‚¦‚Á",
-    "face": "(;ß„tß)ª.........................."
-  },
-  {
-    "annotation": "‚¦‚Á",
     "face": "(¡¥„D¥¡)‚¦!?"
-  },
-  {
-    "annotation": "‚¦‚Á",
-    "face": "(ß„Dß)´¯"
   },
   {
     "annotation": "‚¦‚¦‚¦",
@@ -7750,14 +6158,6 @@
   {
     "annotation": "‚¦‚¦‚¦",
     "face": "´ª´ª´ª´ª´ª´ª(ß„DßÉ)É´ª´ª´ª×²º¯Á¬"
-  },
-  {
-    "annotation": "‚¦‚¦‚¦",
-    "face": "HHHƒGƒGƒFƒF(L„t`)ƒFƒFƒGƒGHHH"
-  },
-  {
-    "annotation": "‚¦‚¦‚¦",
-    "face": "HHHƒGƒGƒFƒF(ß„Dß)ƒFƒFƒGƒGHHH"
   },
   {
     "annotation": "‚¦‚¦‚¦",
@@ -7808,10 +6208,6 @@
     "face": "„°N„°N„°N„°N(;ßªß;)„°N„°N„°N„°N"
   },
   {
-    "annotation": "‚Ç‚Ç‚Ç",
-    "face": "„°N„°N„°N„°N(ß„tß)„°N„°N„°N„°N"
-  },
-  {
     "annotation": "‚²‚²‚²",
     "face": "ƒRNƒRNƒRNƒRNƒRN(*L„t`*)ƒRNƒRNƒRNƒRNƒRN"
   },
@@ -7826,14 +6222,6 @@
   {
     "annotation": "‚ª‚­‚Ô‚é",
     "face": "ÌŞÙ(((_('ƒÖ';£Ú)))ÌŞÙ"
-  },
-  {
-    "annotation": "‚ª‚­‚Ô‚é",
-    "face": "¶Ş¸¶Ş¸((((;ß„Dß))))ÌŞÙÌŞÙ"
-  },
-  {
-    "annotation": "‚ª‚­‚Ô‚é",
-    "face": "((((;ß„Dß))))¶Ş¸¶Ş¸ÌŞÙÌŞÙ"
   },
   {
     "annotation": "‚ª‚­‚Ô‚é",
@@ -7886,10 +6274,6 @@
   {
     "annotation": "‚Ğ[",
     "face": "Ë¨¨¯!!‡”(G„DGÉ)É"
-  },
-  {
-    "annotation": "‚Ğ[",
-    "face": "Ë¨°(ßÛßÉ)É"
   },
   {
     "annotation": "‚Ğ[",
@@ -7957,10 +6341,6 @@
   },
   {
     "annotation": "‚È‚ñ‚Æ",
-    "face": "ÅİÄ¯‡”(ßÍßÉ)É"
-  },
-  {
-    "annotation": "‚È‚ñ‚Æ",
     "face": "ÅÆ¨¨¨¨¨¨¨¨¨¨¨(*`ÛL*É)É"
   },
   {
@@ -7974,10 +6354,6 @@
   {
     "annotation": "‚ ‚Í‚Í",
     "face": "S(o^¤^o)É‚ ‚Í‚Íô"
-  },
-  {
-    "annotation": "‚ ‚Í‚Í",
-    "face": "(ßÍß)±ÊÊ”ª”ªÉRÉRÉRÉ_/_/_/_"
   },
   {
     "annotation": "‚ ‚Í‚Í",
@@ -8037,10 +6413,6 @@
   },
   {
     "annotation": "‚ ‚Í",
-    "face": "(*¥Í¥*)±Ê¯"
-  },
-  {
-    "annotation": "‚ ‚Í",
     "face": "(*ÉÍ`*)±Ê¯"
   },
   {
@@ -8054,10 +6426,6 @@
   {
     "annotation": "‚­‚·",
     "face": "(LÍ`)¸½¸½(Î)"
-  },
-  {
-    "annotation": "‚¢‚Ğ‚Ğ",
-    "face": "¥¡¥(ÉÍß)ƒĞ¥¡¥²°¯Ë¯Ë¯Ë¯Ë¯Ë"
   },
   {
     "annotation": "‚¢‚Ğ‚Ğ",
@@ -8110,10 +6478,6 @@
   {
     "annotation": "‚­‚­‚­",
     "face": "ƒNƒNƒNƒb(*†m…)l(†m…*)"
-  },
-  {
-    "annotation": "‚Ó‚Á",
-    "face": "(L[`)Ì¯"
   },
   {
     "annotation": "‚Ó‚Á",
@@ -8177,10 +6541,6 @@
   },
   {
     "annotation": "‚¬‚á‚Í",
-    "face": "(^„D^)·Ş¬Ê¯!!"
-  },
-  {
-    "annotation": "‚¬‚á‚Í",
     "face": "·Ş¬Êwwww(^„D^)ÜÛ½wWw"
   },
   {
@@ -8202,10 +6562,6 @@
   {
     "annotation": "‚¯‚ç‚¯‚ç",
     "face": "((*ÉÍ`*))ƒ–×ƒ–×"
-  },
-  {
-    "annotation": "‚¯‚ç‚¯‚ç",
-    "face": "((LÍ`))¹×¹×"
   },
   {
     "annotation": "‚¯‚ç‚¯‚ç",
@@ -8252,10 +6608,6 @@
     "face": "ÆÔÆÔÆÔ(¥Í¥)ÆÔÆÔÆÔ"
   },
   {
-    "annotation": "‚É‚â",
-    "face": "(L¥Í¥`)ÆÔ"
-  },
-  {
     "annotation": "‚É‚½‚Ÿ",
     "face": "(*L‰v`*)ÆÀ§"
   },
@@ -8269,15 +6621,7 @@
   },
   {
     "annotation": "‚Õ‚Á",
-    "face": "(L,_T`)Ìß¯"
-  },
-  {
-    "annotation": "‚Õ‚Á",
     "face": "(L,_d`)Ìß¯"
-  },
-  {
-    "annotation": "‚Õ‚Á",
-    "face": "(¥L°¥`)Ìß¯"
   },
   {
     "annotation": "‚Õ‚Á",
@@ -8290,10 +6634,6 @@
   {
     "annotation": "‚Õ‚Á",
     "face": "('ß`ƒÃ'ß`)Ìß¯"
-  },
-  {
-    "annotation": "‚ ‚Ğ‚á",
-    "face": "(ßÍß)±Ë¬"
   },
   {
     "annotation": "‚ ‚Ğ‚á",
@@ -8322,10 +6662,6 @@
   {
     "annotation": "‚È‚©[‚Ü",
     "face": "(¿LÍ`)¿ĞİÅ(‚ÁLÍ`)‚Á))Å¶Ï¯"
-  },
-  {
-    "annotation": "‚È‚©[‚Ü",
-    "face": "(¥Í¥)l(¥Í¥)Å¶°Ï"
   },
   {
     "annotation": "‚È‚©[‚Ü",
@@ -8417,10 +6753,6 @@
   },
   {
     "annotation": "‚È‚Å‚È‚Å",
-    "face": "ÅÃŞÅÃŞ(*¥„t¥)É›|P|Q"
-  },
-  {
-    "annotation": "‚È‚Å‚È‚Å",
     "face": "–³—‡k(*ßªß)ƒm(É_¥`)"
   },
   {
@@ -8445,14 +6777,6 @@
   },
   {
     "annotation": "‚Ó‚Ÿ‚¢‚Æ",
-    "face": "Ì§²Ä«¥.*:+:(n'Í')ƒÅ:+:*.¥"
-  },
-  {
-    "annotation": "‚Ó‚Ÿ‚¢‚Æ",
-    "face": "Ì§²Ä„Ÿ„Ÿ!!(ß„tß)˜§(ß„tß)²¯Êß„Ÿ„ŸÂ!!"
-  },
-  {
-    "annotation": "‚Ó‚Ÿ‚¢‚Æ",
     "face": "Ì§²Ä„Ÿ„Ÿ(ß„tß)˜§(ß„tß)„Ÿ„Ÿ!!!!"
   },
   {
@@ -8474,10 +6798,6 @@
   {
     "annotation": "‚¢‚¢",
     "face": "ƒiƒCƒXId(†¤…)"
-  },
-  {
-    "annotation": "‚¢‚¢",
-    "face": "(¥Í¥)²²!!"
   },
   {
     "annotation": "‚¢‚¢",
@@ -8521,15 +6841,7 @@
   },
   {
     "annotation": "‚à‚¦",
-    "face": "(¥Í¥)Óª!!"
-  },
-  {
-    "annotation": "‚à‚¦",
     "face": "(VƒÖV)Óª!!"
-  },
-  {
-    "annotation": "‚ç‚Ô",
-    "face": "(ßÍß)×³Ş¨!!"
   },
   {
     "annotation": "‚Ù‚à[",
@@ -8546,130 +6858,6 @@
   {
     "annotation": "‚Ù‚à[",
     "face": "„¡(„¡^o^)„¢ƒzƒ‚ƒHc"
-  },
-  {
-    "annotation": "‚°‚Á‚Â",
-    "face": "(ƒĞßÍß)ƒĞ¹Ş¯Â"
-  },
-  {
-    "annotation": "‚°‚Á‚Â",
-    "face": "(ƒĞ¥„D¥)ƒĞ¹Ş¯Â"
-  },
-  {
-    "annotation": "‚°‚Á‚Â",
-    "face": "(ƒĞß„tß)ƒĞ¹Ş¯Â"
-  },
-  {
-    "annotation": "‚°‚Á‚Â",
-    "face": "ƒQ„Ÿ„Ÿ(ƒĞ¥Í¥)ƒĞ„Ÿ„Ÿƒc!!"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "(ß„tß)Î½¨"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "(L¥_¥`)¡oO(Î¼¨Å§)"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "(Î¼¨)o¡(*'Ê'*)¼Ş­ÙØ"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "|®¥„D¥*)¡oO(Î¼¨)"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "R(`„DL)É¸ÚÖ"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "ÏÀŞ§-?(¥Í¥)‚Á/™Ü™ÁİÁİ"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "Î¼¨((o(LÍ`)o))Î¼¨"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "(™ƒÖ™)·­Ëß°İ"
-  },
-  {
-    "annotation": "‚Ù‚µ‚¢",
-    "face": "(Rß„tß)¸Ú"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "(lÍ¥)ÀÉÑ!"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "ÀÉ„Ÿ„Ÿ„Ÿ(lÍ¥)„Ÿ„Ÿ„ŸÑ!!"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "Q|P|›))—Š‚ŞI‚¨Šè‚¢I‚±‚Ì’Ê‚èI"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "„¬›))ÀÉ„ª„ª„ª„ª„ª„ª„ªÑI"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "(lÍ'o)—Š‚ŞI"
-  },
-  {
-    "annotation": "‚½‚Ì‚Ş",
-    "face": "(lÍ¥*)—Š‚ŞI"
-  },
-  {
-    "annotation": "‚¨‚Ë‚ª‚¢",
-    "face": "(*>l<*)‚¨Šè‚¢I"
-  },
-  {
-    "annotation": "‚¨‚Ë‚ª‚¢",
-    "face": "‚¨Šè‚¢(*'Í'l)"
-  },
-  {
-    "annotation": "‚¨‚Ë‚ª‚¢",
-    "face": "(l„t`*)µÈ¶Ş²"
-  },
-  {
-    "annotation": "‚¨‚Ë‚ª‚¢",
-    "face": "(*¥„tl)µÈ¶Ş²"
-  },
-  {
-    "annotation": "‚¨‚Ë‚ª‚¢",
-    "face": "Q|P|›))‚¨Šè‚¢‚µ‚Ü‚·"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "(¡-„t-¡)²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "(L¥ƒÃ¥`)²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "(ß‡™ß)²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "('A`)²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "Q|P|œ²×È"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "áV_›^|Q‚¨•Ô‚µ‚µ‚Ü‚·"
-  },
-  {
-    "annotation": "‚¢‚ç‚Ë",
-    "face": "Îß¨(ÉÍ`)ÉÜáV"
   },
   {
     "annotation": "‚ ‚°‚é",
@@ -8692,38 +6880,6 @@
     "face": "ÄŞ°¿Ş(*'Í')‚ÁáV"
   },
   {
-    "annotation": "‚Ğ‚Ü",
-    "face": "|L¥_¥`)¡oO(‰É)"
-  },
-  {
-    "annotation": "‚Ğ‚Ü",
-    "face": "|¥„t¥`)¡oO(‰É)"
-  },
-  {
-    "annotation": "‚Ğ‚Ü",
-    "face": "|¥„x¥*)¡oO(‰É)"
-  },
-  {
-    "annotation": "‚Ğ‚Ü",
-    "face": "|‰É|¥ƒÖ¥¡)"
-  },
-  {
-    "annotation": "‚Ğ‚Ü",
-    "face": "|‰É|®„D`*)Á×Øİ"
-  },
-  {
-    "annotation": "‚Ú[",
-    "face": "(ßqß)ÎŞ°c"
-  },
-  {
-    "annotation": "‚Ú[",
-    "face": "(ß„tß)Î¹Şªc"
-  },
-  {
-    "annotation": "‚Ú[",
-    "face": "(¡-„D-¡)ÎŞ«c"
-  },
-  {
     "annotation": "‚©‚Ü‚Á‚Ä",
     "face": "(l¤V)ƒAƒ\ƒ{"
   },
@@ -8736,36 +6892,12 @@
     "face": "—V‚Ú‚ÁIo(*>Í<*)o"
   },
   {
-    "annotation": "‚©‚Ü‚Á‚Ä",
-    "face": "S(¥ƒÖ¥;)¶Ï¯Ã"
-  },
-  {
-    "annotation": "‚©‚Ü‚Á‚Ä",
-    "face": "S(¥„t¥`)¶Ï¯Ã"
-  },
-  {
-    "annotation": "‚©‚à[‚ñ",
-    "face": "(›£ß„Dß)›£¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à[‚ñ",
-    "face": "¶Ó„ª„ª„ª„ª„‹(ß„Dß„‹)„ª„ª„ª„ªİ"
-  },
-  {
-    "annotation": "‚©‚à[‚ñ",
-    "face": "„‹(ß„tß„‹)¶Ó°İ"
-  },
-  {
     "annotation": "‚©‚à[‚ñ",
     "face": "(U*'Í')U¶Ó°İ"
   },
   {
     "annotation": "‚©‚à[‚ñ",
     "face": "Í('.'o)¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à[‚ñ",
-    "face": "Í(L[`*)¶Ó°İ"
   },
   {
     "annotation": "‚©‚à[‚ñ",
@@ -8786,22 +6918,6 @@
   {
     "annotation": "‚©‚à[‚ñ",
     "face": "(*'ÉÍ')É‚¨[‚¢"
-  },
-  {
-    "annotation": "‚Ë‚¥‚Ë‚¥",
-    "face": "ÈªÈª(*'„t`)É))"
-  },
-  {
-    "annotation": "‚Ë‚¥‚Ë‚¥",
-    "face": "S(¥ƒÖ¥*)ÈªÈª"
-  },
-  {
-    "annotation": "‚Ë‚¥‚Ë‚¥",
-    "face": "S(¥„t¥`)ÈªÈª"
-  },
-  {
-    "annotation": "‚Ë‚¥‚Ë‚¥",
-    "face": "S('„t'o)ÈªÈª"
   },
   {
     "annotation": "‚«‚å‚ë‚«‚å‚ë",
@@ -8881,10 +6997,6 @@
   },
   {
     "annotation": "‚©‚ñ‚³‚Â",
-    "face": "|„tß)¶İ»Â"
-  },
-  {
-    "annotation": "‚©‚ñ‚³‚Â",
     "face": "|„tL)¡oO(¥¥¥)"
   },
   {
@@ -8913,15 +7025,7 @@
   },
   {
     "annotation": "‚¿‚ç",
-    "face": "|¥ƒÖ¥`)Á×¯"
-  },
-  {
-    "annotation": "‚¿‚ç",
     "face": "|„t¥`)Á×¯ƒÃƒÃ(ÉL¥„t¥)ÉÀ¯À¯À¯ƒÃƒÃÁ×¯(L¥„t|"
-  },
-  {
-    "annotation": "‚¿‚ç",
-    "face": "|„tL)Á×¯"
   },
   {
     "annotation": "‚¿‚ç",
@@ -8936,56 +7040,8 @@
     "face": "|¥`_L¥¡)Á×¯"
   },
   {
-    "annotation": "‚³‚Á",
-    "face": "|œc»¯"
-  },
-  {
     "annotation": "‚Í‚µ‚é",
     "face": "½Ş»°¯ƒÃ=ƒÃ=ƒÃ=cÜ‚Áß„Dß)‚Á"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "¼“ñ“ñ“ñ(^ƒÖ^)“ñ½ÌŞ°İ"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "Îß·­°İ¡¥*¥:ß(ƒÃ:)"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "¶»¶»ƒÃƒÃ=‚Ö(‚ÖLÍ`)‚Ö"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "ƒÃ=ƒÃ=ƒÃ=S(*ßªß)ÉÊßÀÊßÀ"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "½Àº×»¯»¯ƒÃ=ƒÃ=„¡(;Lßªß)„£"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "„°N„°N„°N-=ß‡”(((‚Á'Í')‚Á"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "ÌŞ°İƒÃ=ƒÃ(((‚Á¥ƒÖ¥)‚Á"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "Ëß­°ƒ~R('„x')É"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "¤Q(^ƒÖ^)Q,ÌŞ°İ"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "„¯(^o^)„­O"
-  },
-  {
-    "annotation": "‚Í‚µ‚é",
-    "face": "O„¬(^o^)„®"
   },
   {
     "annotation": "‚ß‚à‚ß‚à",
@@ -9004,10 +7060,6 @@
     "face": "_ƒÓ(LƒÃ`*‚ƒÜ‚Á¶·¶·"
   },
   {
-    "annotation": "‚ß‚à‚ß‚à",
-    "face": "((ƒÓ(L¥ƒÖ¥`cÜ‚ÂÒÓÒÓ"
-  },
-  {
     "annotation": "‚¯‚µ‚¯‚µ",
     "face": "((QÛ(Lª`*)J¹¼¹¼"
   },
@@ -9018,10 +7070,6 @@
   {
     "annotation": "‚¯‚µ‚¯‚µ",
     "face": "((QÛ('ƒÖ'*)J¹¼¹¼"
-  },
-  {
-    "annotation": "‚½‚Î‚±",
-    "face": "(L[`)y-~"
   },
   {
     "annotation": "‚½‚Î‚±",
@@ -9042,10 +7090,6 @@
   {
     "annotation": "‚½‚Î‚±",
     "face": "(L¥„t¥)y-~"
-  },
-  {
-    "annotation": "‚½‚Î‚±",
-    "face": "(L‡™`)y-~"
   },
   {
     "annotation": "‚Æ‚¢‚ê",
@@ -9108,74 +7152,6 @@
     "face": "Ö¯º²¼®ƒ(¥L°¥`)„„¡„®„¡„®"
   },
   {
-    "annotation": "‚ë‚Ş",
-    "face": "[ROM]'`'o)))Ó¸ŞÓ¸Ş"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "[ROM]®ƒÖ¥¡):+:*.¥"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "[ROM]œc»¯!!"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "[·°ÎŞ°ÄŞ]ƒÃ=ƒÃ=ƒÃ=„¡(*ßªß)„£"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "|o'„t')ÉÜ[ROM]"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "|œc»¯[ROM]"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "ROM_Q(L[`)y-~"
-  },
-  {
-    "annotation": "‚ë‚Ş",
-    "face": "ƒƒ€I(¡É¥ƒÖ¥)ÉÜ[·°ÎŞ°ÄŞ]"
-  },
-  {
-    "annotation": "‚à‚®‚à‚®",
-    "face": "[H–’†]'`'o)))Ó¸ŞÓ¸Ş"
-  },
-  {
-    "annotation": "‚à‚®‚à‚®",
-    "face": "[H–’†]¥`¥¡)))Ó¸ŞÓ¸Ş"
-  },
-  {
-    "annotation": "‚à‚®‚à‚®",
-    "face": "[H–’†]ß`ß*)))Ó¸ŞÓ¸Ş"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "((É`ªS))ÓÁ®ÓÁ®"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "((ƒmªS))ºŞ¼ºŞ¼"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "(L¥ƒÖU)ºŞ¼ºŞ¼"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "((L-ƒÖ-`))³Ä³Äc"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "³Ä³Äc(,'3£Ú)_"
-  },
-  {
-    "annotation": "‚¤‚Æ‚¤‚Æ",
-    "face": "[–]qv_v¡)³Ä³Ä"
-  },
-  {
     "annotation": "‚²‚Ù‚²‚Ù",
     "face": "ºŞÎºŞÎ((;*„t*))o=3=3"
   },
@@ -9192,64 +7168,12 @@
     "face": "(*>„t<)¥;'.¤¨¸¼¯"
   },
   {
-    "annotation": "‚³‚Ş[",
-    "face": "((((;ß„Dß))))»Ñ°"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "»Ñ°(((L„t`)))ÌŞÙÌŞÙ"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "„¡[ß„tß]„¢¶·°İ"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "(((pL„t`q)))»Ñ°"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "»Ñ°(((p'„t'q)))ÌßÙÌßÙ"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "»Ñ¨°(((LG„tG`)))ÌŞÙÌŞÙ"
-  },
-  {
-    "annotation": "‚³‚Ş[",
-    "face": "ÌŞÙÌŞÙ(((p-„t-q)))ÌŞÙÌŞÙ"
-  },
-  {
-    "annotation": "‚ ‚Â[",
-    "face": "(L„D`ƒÒ)±Â¨°"
-  },
-  {
-    "annotation": "‚ ‚Â[",
-    "face": "ÊßÀÊßÀ((Ş‚p(¥ƒÖ¥`;)"
-  },
-  {
-    "annotation": "‚ ‚Â[",
-    "face": "(;L„D`)U±Â°"
-  },
-  {
-    "annotation": "‚ ‚Â[",
-    "face": "±Â°(;ß;„D;ß;)ÎßÀÎßÀ"
-  },
-  {
     "annotation": "‚µ‚ñ‚®‚é‚×‚é",
     "face": "[12Œ]22“ú23“ú('A`)('A`)26“ú"
   },
   {
     "annotation": "‚µ‚ñ‚®‚é‚×‚é",
     "face": "Q|P|œ¡o(¼İ¸ŞÙÍŞÙ)"
-  },
-  {
-    "annotation": "‚µ‚ñ‚®‚é‚×‚é",
-    "face": "¦¦¦¦ƒNƒŠƒXƒ}ƒX’†~‚Ì‚¨’m‚ç‚¹¦¦¦¦"
-  },
-  {
-    "annotation": "‚µ‚ñ‚®‚é‚×‚é",
-    "face": "ƒNƒŠƒXƒ}ƒX‚Í‹”N‚â‚Á‚½‚¾‚ëI(`¥„t¥L)"
   },
   {
     "annotation": "‚à‚¶‚¢‚ê",
@@ -9306,10 +7230,6 @@
   {
     "annotation": "‚¨‚Í‚æ‚¤",
     "face": "R(*ßªß*)ÉƒIƒbƒn[!!"
-  },
-  {
-    "annotation": "‚¨‚Í‚æ‚¤",
-    "face": "(ƒmß„Dß)‚¨‚Í‚æ‚¤"
   },
   {
     "annotation": "‚±‚ñ‚É‚¿‚Í",
@@ -9565,10 +7485,6 @@
   },
   {
     "annotation": "‚¨‚ß‚Å‚Æ‚¤",
-    "face": "‚¨(¥Í¥)‚ß(¥Í¥)‚Å(¥Í¥)‚Æ(¥Í¥)‚¤I"
-  },
-  {
-    "annotation": "‚¨‚ß‚Å‚Æ‚¤",
     "face": "(b`¥„D¥)b‚¨‚ß‚Å‡dô"
   },
   {
@@ -9584,32 +7500,12 @@
     "face": "‚¨‚ß‚Å‚Æ[ô¥ß¥(PÍ`q)¥ß¥"
   },
   {
-    "annotation": "‚·‚Ü‚»",
-    "face": "R(ß„tß;)½¯¤½Ï¿"
-  },
-  {
     "annotation": "‚³[‚¹‚ñ",
     "face": "(*ß‰vß)U»°¾İ"
   },
   {
     "annotation": "‚ä‚é‚µ‚Ä",
     "face": "‹–‚µ‚ÄI(lƒÖ'*)‹–‚µ‚ÄI"
-  },
-  {
-    "annotation": "‚±‚Á‚»‚è",
-    "face": "(¥ÉƒÖ¥)º¯¿Ø"
-  },
-  {
-    "annotation": "‚±‚Á‚»‚è",
-    "face": "(*¥Éª¥)º¯¿Ø"
-  },
-  {
-    "annotation": "‚±‚Á‚»‚è",
-    "face": "(*ßÉªß)º¼®¼®"
-  },
-  {
-    "annotation": "‚±‚Á‚»‚è",
-    "face": "(`¥É¡L¥)º¯¿Ø"
   },
   {
     "annotation": "‚ [‚Ë",
@@ -9636,10 +7532,6 @@
     "face": "(¡¥o¥)‚Ù‚Ù[‚£"
   },
   {
-    "annotation": "‚Ÿ‚¡",
-    "face": "(ß„Dß)É§¨"
-  },
-  {
     "annotation": "‚¢‚¦[‚·",
     "face": "YE„ª„ª„ª„ªd(ßÍß)b„ª„ª„ª„ªS!!"
   },
@@ -9658,10 +7550,6 @@
   {
     "annotation": "‚ç‚¶‚á",
     "face": "(*É'„t`)×ÁŞ¬!!"
-  },
-  {
-    "annotation": "‚¢‚¢‚¦",
-    "face": "SÉ¥Í¥`)²´²´"
   },
   {
     "annotation": "‚¢‚¢‚¦",
@@ -9704,22 +7592,6 @@
     "face": "SÉß„Dß*)È°ƒ"
   },
   {
-    "annotation": "‚¢‚¬‚ ‚è",
-    "face": "(ß„Dß)ƒĞˆÙ‹c±Ø"
-  },
-  {
-    "annotation": "‚¢‚­‚È[‚¢",
-    "face": "²¸Å„ª„ª„ª„ª(ßAß)„ª„ª„ª„ª²!!!!"
-  },
-  {
-    "annotation": "‚¢‚­‚È‚¢",
-    "face": "(¥A¥)²¸Å²!!"
-  },
-  {
-    "annotation": "‚à‚Ş[‚è",
-    "face": "ÎİÄo(ß„Dß)‚ÁÓÑ°ØI"
-  },
-  {
     "annotation": "‚Ş‚è[",
     "face": "(*>„t<*)ÑØ°I"
   },
@@ -9734,14 +7606,6 @@
   {
     "annotation": "‚¨‚±‚Æ‚í‚è‚µ‚Ü‚·",
     "face": "Q|P|›µºÄÜØ¼Ï½"
-  },
-  {
-    "annotation": "‚¨‚±‚Æ‚í‚è‚µ‚Ü‚·",
-    "face": "(ßƒÖß)‚¨’f‚è‚µ‚Ü‚·"
-  },
-  {
-    "annotation": "‚ ‚¤‚ ‚¤",
-    "face": "¼ƒ~½^ƒÖ^)±³±³"
   },
   {
     "annotation": "‚¢‚â‚¾‚í[",
@@ -9768,16 +7632,8 @@
     "face": "(L¥„t¥)‚È‚É‚©?"
   },
   {
-    "annotation": "‚È‚É‚©",
-    "face": "(ß„Dß)ÅÆ¶?"
-  },
-  {
     "annotation": "‚ ‚ñ",
     "face": "(¡¥„D¥¡)§İH"
-  },
-  {
-    "annotation": "‚µ‚ç‚Ë[‚æ",
-    "face": "(L[`)ƒVƒ‰ƒl[ƒˆ"
   },
   {
     "annotation": "‚Ç[‚ä[‚±‚Æ‚â‚Ë‚ñ",
@@ -9792,40 +7648,12 @@
     "face": "‚í‚©‚ñ‚È‚¢(L¥„t¥`)U"
   },
   {
-    "annotation": "‚µ‚ç‚ñ‚ª‚È",
-    "face": "(L¥ƒÖ¥`)’m‚ç‚ñ‚ª‚È"
-  },
-  {
-    "annotation": "‚µ‚ç‚Ë",
-    "face": "(ß‡™ß)¼×È"
-  },
-  {
-    "annotation": "‚¤[‚ñ",
-    "face": "(;`¥`¥)‚®‚Ê‚Êc"
-  },
-  {
-    "annotation": "‚¤[‚ñ",
-    "face": "yR‹c’†z(L¥ƒÖ¥)L¥ƒÖ)(ƒÖ¥`(¥ƒÖ¥`)"
-  },
-  {
     "annotation": "‚¤[‚ñ",
     "face": "(L¥ƒÖ¥)y-~´Äc"
   },
   {
     "annotation": "‚¤[‚ñ",
-    "face": "ƒĞ(-ƒÃ-`)³°İ"
-  },
-  {
-    "annotation": "‚¤[‚ñ",
     "face": "(;`¥_¥L)İ-"
-  },
-  {
-    "annotation": "‚¤[‚ñ",
-    "face": "(;'„t`)³°İ"
-  },
-  {
-    "annotation": "‚¤[‚ñ",
-    "face": "(LƒÃ`;)³°İ"
   },
   {
     "annotation": "‚¤[‚ñ",
@@ -9834,34 +7662,6 @@
   {
     "annotation": "‚¤[‚ñ",
     "face": "(Lª`)İ-c"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(†¤…)b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(LÍ`)b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(*L„D`)b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(o'„t')b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(*Éªß)b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "(¡¥ƒÖ¥)b"
-  },
-  {
-    "annotation": "‚‚‚‚",
-    "face": "„Œ(ß„Dß)"
   },
   {
     "annotation": "‚Ü‚Á",
@@ -9892,42 +7692,6 @@
     "face": "Îß¶„Ÿ„Ÿ(ß„tß)„Ÿ„Ÿİ"
   },
   {
-    "annotation": "‚È‚ñ‚Ä‚±‚Á‚½",
-    "face": "ÅİÃº¯À^(^o^)_"
-  },
-  {
-    "annotation": "‚ ‚ç‚ç",
-    "face": "(L¥Í¥`)±×Ï§"
-  },
-  {
-    "annotation": "‚ ‚ç‚ç",
-    "face": "(;ßÍß)±××c"
-  },
-  {
-    "annotation": "‚ ‚ç‚ç",
-    "face": "(;-ä‡-)§Ø¬Ø¬"
-  },
-  {
-    "annotation": "‚ ‚ç‚ç",
-    "face": "‡”(ß„Dß;)±×Ï¯"
-  },
-  {
-    "annotation": "‚ ‚â‚µ‚¢",
-    "face": "|ß„tß)‚Ÿ‚áƒÇ‚¡"
-  },
-  {
-    "annotation": "‚Ğ‚İ‚Â",
-    "face": "(*ßÉ„xß)ËĞÂÈ"
-  },
-  {
-    "annotation": "‚Ğ‚İ‚Â",
-    "face": "(*LÉ3`)ËĞÂÈ"
-  },
-  {
-    "annotation": "‚±‚Á‚¿‚å‚è",
-    "face": "º¯Á®Ø(L„t)(L„t`)(„t`)º¯Á®Ø"
-  },
-  {
     "annotation": "‚µ‚å‚Ú‚ñ",
     "face": "(L¥_¥`)¼®ÎŞİ"
   },
@@ -9950,10 +7714,6 @@
   {
     "annotation": "‚±‚È[‚¢",
     "face": "ºÅ„ª„ª„ª„ª(ßAß)„ª„ª„ª„ª²!!"
-  },
-  {
-    "annotation": "‚±‚È[‚¢",
-    "face": "ºÅ„ª„ª„ª(L¥ƒÖ¥`)„ª„ª„ª²"
   },
   {
     "annotation": "‚±‚È[‚¢",
@@ -9996,14 +7756,6 @@
     "face": "(;É„t-)½Ş°İ"
   },
   {
-    "annotation": "‚¸‚±[",
-    "face": "P|Q|›½Şº°"
-  },
-  {
-    "annotation": "‚¸‚±[",
-    "face": "„¡„®„¡„®½Şº°"
-  },
-  {
     "annotation": "‚±‚Ä",
     "face": "‰š›ºÃ¯"
   },
@@ -10012,16 +7764,8 @@
     "face": "ÄÎÎ(;L„t`)ƒm|’Œ|"
   },
   {
-    "annotation": "‚Æ‚Ù[",
-    "face": "(LƒÖ`)ÄÎ°"
-  },
-  {
     "annotation": "‚Ö‚ç‚Á‚Ä‚«‚½",
     "face": "Í×¯Ã·À§c('¤3_R)_"
-  },
-  {
-    "annotation": "‚¤‚Â[",
-    "face": "³Â„ª„ª„ª„ª(-Q-)„ª„ª„ª„ª!!!!"
   },
   {
     "annotation": "‚â‚Á‚½[",
@@ -10084,10 +7828,6 @@
     "face": "+(oß¥Í¥)+Ü¸Ü¸Ã¶Ã¶+"
   },
   {
-    "annotation": "‚«‚½‚±‚ê",
-    "face": "(ßÍß)·ÀºÚ"
-  },
-  {
     "annotation": "‚Î‚ñ‚´‚¢",
     "face": "R(L[`)ƒmÏİ¾°"
   },
@@ -10145,10 +7885,6 @@
   },
   {
     "annotation": "‚«‚á‚Ò",
-    "face": "™(TƒÖ¥)v·¬Ëß"
-  },
-  {
-    "annotation": "‚«‚á‚Ò",
     "face": "™(`TƒÖ¥L)v·¬Ëß¨"
   },
   {
@@ -10182,10 +7918,6 @@
   {
     "annotation": "‚µ‚­‚µ‚­",
     "face": "(LpƒÖq`)Ò¿Ò¿"
-  },
-  {
-    "annotation": "‚µ‚­‚µ‚­",
-    "face": "(É„D`)¼¸¼¸"
   },
   {
     "annotation": "‚µ‚­‚µ‚­",
@@ -10288,10 +8020,6 @@
     "face": "Ê½Ş¶¼¨(*p„tq*)"
   },
   {
-    "annotation": "‚¦‚­‚·‚½‚µ[",
-    "face": "(*L„t`*)´¸½À¼°"
-  },
-  {
     "annotation": "‚Ş‚Á‚Í[",
     "face": "(*ßÍß)=3Ñ¯Ê°"
   },
@@ -10373,10 +8101,6 @@
   },
   {
     "annotation": "‚Ş‚Á",
-    "face": "(`_TL)Ñ¯"
-  },
-  {
-    "annotation": "‚Ş‚Á",
     "face": "(#ß„Dß)Ñ¯¶°"
   },
   {
@@ -10401,31 +8125,11 @@
   },
   {
     "annotation": "‚²‚é‚Ÿ",
-    "face": "ºŞ„ª„ª„ª„ª(#ß„Dß)„ª„ª„ª„ªÙ§!!!!"
-  },
-  {
-    "annotation": "‚²‚é‚Ÿ",
-    "face": "(#ß„Dß)ºŞÙ§!!"
-  },
-  {
-    "annotation": "‚²‚é‚Ÿ",
-    "face": "(ß„Dß)ºŞÙ§!!"
-  },
-  {
-    "annotation": "‚²‚é‚Ÿ",
-    "face": "(É„tR)ºŞºŞ(˜§)ºŞºŞS(`„DL)ÉºŞÙ±!!"
-  },
-  {
-    "annotation": "‚²‚é‚Ÿ",
     "face": "R(`„DL)ÉºŞÙ§§±!!"
   },
   {
     "annotation": "‚²‚é‚Ÿ",
     "face": "ºÙ§!!(¢ß‰vß)¢"
-  },
-  {
-    "annotation": "‚®‚è‚®‚è",
-    "face": "(*'„t')‚Â);`„DL)¸ŞØ¸ŞØ"
   },
   {
     "annotation": "‚ª‚Á",
@@ -10501,10 +8205,6 @@
   },
   {
     "annotation": "‚¸‚ª[‚ñ",
-    "face": "ƒXNƒJN[ƒ“!!‡”(ß„Dß;)"
-  },
-  {
-    "annotation": "‚¸‚ª[‚ñ",
     "face": "‡”(ßƒÖß;)ƒJN[ƒ“"
   },
   {
@@ -10556,16 +8256,8 @@
     "face": "(;¥Í¥)‚í‚Á"
   },
   {
-    "annotation": "‚ ‚Á",
-    "face": "(;ß„tß)±¯"
-  },
-  {
     "annotation": "‚Ğ‚¡[",
     "face": "Ë¨¨¯!!‡”(G„DGÉ)É"
-  },
-  {
-    "annotation": "‚Ğ‚¡[",
-    "face": "Ë¨°(ßÛßÉ)É"
   },
   {
     "annotation": "‚Ğ‚¡[",
@@ -10665,10 +8357,6 @@
   },
   {
     "annotation": "‚Í‚Í‚Í",
-    "face": "'`,¤'`,¤('Í`)'`,¤'`,¤"
-  },
-  {
-    "annotation": "‚Í‚Í‚Í",
     "face": "±ÊÊ¯!!S(LÍ`*)É±ÊÊ¯!!(*ÉÍ`)É±ÊÊ¯!!"
   },
   {
@@ -10726,10 +8414,6 @@
   {
     "annotation": "‚¢‚Ğ",
     "face": "(*`ä‡L*)²ËËËË¯"
-  },
-  {
-    "annotation": "‚¢‚Ğ",
-    "face": "(¥Í¥)²Ë¯"
   },
   {
     "annotation": "‚¢‚Ğ",
@@ -10838,10 +8522,6 @@
   {
     "annotation": "‚É‚â‚É‚â",
     "face": "(P[P)ÆÔØ"
-  },
-  {
-    "annotation": "‚É‚â‚É‚â",
-    "face": "(¥Í¥)ÆÔÆÔ"
   },
   {
     "annotation": "‚É‚â‚É‚â",
@@ -10985,10 +8665,6 @@
   },
   {
     "annotation": "‚Ó‚Ÿ‚¢‚Æ[",
-    "face": "Ì§²Ä«¥.*:+:(n'Í')ƒÅ:+:*.¥"
-  },
-  {
-    "annotation": "‚Ó‚Ÿ‚¢‚Æ[",
     "face": "Ì§²Ä„Ÿ„Ÿ!!(ß„tß)˜§(ß„tß)²¯Êß„Ÿ„ŸÂ!!"
   },
   {
@@ -11017,19 +8693,11 @@
   },
   {
     "annotation": "‚®‚Á",
-    "face": "(LÍ`)b¸Ş¯"
-  },
-  {
-    "annotation": "‚®‚Á",
     "face": "GoodJobI‡”d(ß„tß*)"
   },
   {
     "annotation": "‚®‚Á",
     "face": "‡”d=(LÍ`*)¸Ş¯"
-  },
-  {
-    "annotation": "‚¤‚Á‚Æ‚è",
-    "face": "¥:*:¥(*LÍ`*)³¯ÄØ¥:*:¥"
   },
   {
     "annotation": "‚Ù‚à‚§",
@@ -11042,10 +8710,6 @@
   {
     "annotation": "‚Ù‚à‚§",
     "face": "_ƒEƒzƒbI‚¢‚¢’jI^"
-  },
-  {
-    "annotation": "‚Ù‚à‚§",
-    "face": "„¡(„¡^o^)„¢ƒzƒ‚ƒHc"
   },
   {
     "annotation": "‚°‚Á‚Æ",
@@ -11068,20 +8732,8 @@
     "face": "(ß„tß)Î½¨"
   },
   {
-    "annotation": "‚­‚ê‚æ",
-    "face": "R(`„DL)É¸ÚÖ"
-  },
-  {
-    "annotation": "‚Ü‚¾[",
-    "face": "ÏÀŞ§-?(¥Í¥)‚Á/™Ü™ÁİÁİ"
-  },
-  {
     "annotation": "‚«‚ã‚Ò[‚ñ",
     "face": "(™ƒÖ™)·­Ëß°İ"
-  },
-  {
-    "annotation": "‚­‚ê",
-    "face": "(Rß„tß)¸Ú"
   },
   {
     "annotation": "‚½‚Ì[‚Ş",
@@ -11094,26 +8746,6 @@
   {
     "annotation": "‚Û‚¢",
     "face": "Îß¨(ÉÍ`)ÉÜáV"
-  },
-  {
-    "annotation": "‚Ç[‚¼",
-    "face": "‚Â‚Ü‚ç‚È‚¢•¨‚Å‚·‚ªQ|_›_áV"
-  },
-  {
-    "annotation": "‚Ç[‚¼",
-    "face": "‚ ‚°‚éI(*>ƒÖ<)‚ÁáV"
-  },
-  {
-    "annotation": "‚Ç[‚¼",
-    "face": "ÎÚ¯(ß„Dß)ÉÜáV"
-  },
-  {
-    "annotation": "‚Ç[‚¼",
-    "face": "ÄŞ°¿Ş(*¥„t¥)‚ÁáV"
-  },
-  {
-    "annotation": "‚Ç[‚¼",
-    "face": "ÄŞ°¿Ş(*'Í')‚ÁáV"
   },
   {
     "annotation": "‚Ú‚¯[",
@@ -11136,60 +8768,12 @@
     "face": "S(¥„t¥`)¶Ï¯Ã"
   },
   {
-    "annotation": "‚ ‚»‚Ú",
-    "face": "(l¤V)ƒAƒ\ƒ{"
-  },
-  {
-    "annotation": "‚ ‚»‚Ú",
-    "face": "(*pßÍßq)—V‚Ú‚Á"
-  },
-  {
-    "annotation": "‚ ‚»‚Ú",
-    "face": "—V‚Ú‚ÁIo(*>Í<*)o"
-  },
-  {
     "annotation": "‚©‚à‚ñ",
     "face": "(›£ß„Dß)›£¶Ó°İ"
   },
   {
     "annotation": "‚©‚à‚ñ",
-    "face": "¶Ó„ª„ª„ª„ª„‹(ß„Dß„‹)„ª„ª„ª„ªİ"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "„‹(ß„tß„‹)¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "(U*'Í')U¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "Í('.'o)¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "Í(L[`*)¶Ó°İ"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "ƒ¶S(¥ƒÃ¥`*)ÁİÁİÁ°İô"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "|*¥„t¥)İ))¸²¸²¯"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
     "face": "(£ß„Dß)£µ°²"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "(£¥Í¥)£µ°²"
-  },
-  {
-    "annotation": "‚©‚à‚ñ",
-    "face": "(*'ÉÍ')É‚¨[‚¢"
   },
   {
     "annotation": "‚Ç‚±",
@@ -11205,19 +8789,7 @@
   },
   {
     "annotation": "‚Ç‚±",
-    "face": "(¢¥ƒÖ¥)‚Ç‚±H"
-  },
-  {
-    "annotation": "‚Ç‚±",
-    "face": "(¢ß„tß)‚Ç‚±H"
-  },
-  {
-    "annotation": "‚Ç‚±",
     "face": "(¢'„t')‚Ç‚±H"
-  },
-  {
-    "annotation": "‚»[",
-    "face": "|ƒÖ¥`)¿«°"
   },
   {
     "annotation": "‚±‚»[‚è",
@@ -11230,14 +8802,6 @@
   {
     "annotation": "‚±‚»‚±‚»",
     "face": "º¿º¿c‘ü"
-  },
-  {
-    "annotation": "‚¸‚³[",
-    "face": "½Ş»°¯ƒÃ=ƒÃ=ƒÃ=cÜ‚Áß„Dß)‚Á"
-  },
-  {
-    "annotation": "‚Ô[‚ñ",
-    "face": "¼“ñ“ñ“ñ(^ƒÖ^)“ñ½ÌŞ°İ"
   },
   {
     "annotation": "‚Û‚«‚ã[‚ñ",
@@ -11288,10 +8852,6 @@
     "face": "ÏÀ°Ø(ÉLÍ`*)ÏÀ°Ø"
   },
   {
-    "annotation": "‚Ü‚½[‚è",
-    "face": "R(L[`)ƒmÏÀ°Ø"
-  },
-  {
     "annotation": "‚æ‚Á‚±‚¢‚µ‚å",
     "face": "Ö¯º²¼®ƒ(¥L°¥`)„„¡„®„¡„®"
   },
@@ -11308,16 +8868,8 @@
     "face": "((ƒmªS))ºŞ¼ºŞ¼"
   },
   {
-    "annotation": "‚²‚µ‚²‚µ",
-    "face": "(L¥ƒÖU)ºŞ¼ºŞ¼"
-  },
-  {
     "annotation": "‚¢‚­‚µ",
     "face": "(*>„t<)¥;'.¤¨¸¼¯"
-  },
-  {
-    "annotation": "‚©‚«[‚ñ",
-    "face": "„¡[ß„tß]„¢¶·°İ"
   },
   {
     "annotation": "‚¨‚Í‚¨‚Í",
@@ -11325,31 +8877,7 @@
   },
   {
     "annotation": "‚¨‚Á‚Í[",
-    "face": "o(ßÍß)oƒI¯R(ßÍß)Éƒn[!!"
-  },
-  {
-    "annotation": "‚¨‚Á‚Í[",
     "face": "R(*ßªß*)ÉƒIƒbƒn[!!"
-  },
-  {
-    "annotation": "‚â‚Ÿ",
-    "face": "|ƒÖ¥`)‚â‚Ÿ"
-  },
-  {
-    "annotation": "‚â‚Ÿ",
-    "face": "‚â‚Ÿ(L¥ƒÖ¥`)"
-  },
-  {
-    "annotation": "‚¢‚æ‚¤",
-    "face": "(=ßƒÖß)É‚¡‚å‚£"
-  },
-  {
-    "annotation": "‚¢‚æ[‚¤",
-    "face": "(=ßƒÖß)É¨®„Ÿ„Ÿ©"
-  },
-  {
-    "annotation": "‚¢‚æ[‚¤",
-    "face": "²®„ª„ª„ª„ª(=ßƒÖß)l(ßƒÖß=)„ª„ª„ª„ª©"
   },
   {
     "annotation": "‚¿‚á",
@@ -11393,14 +8921,6 @@
   },
   {
     "annotation": "‚Ï‚¿‚Ï‚¿",
-    "face": "(LÍ`ÉÉ™ÊßÁÊßÁÊßÁÊßÁ"
-  },
-  {
-    "annotation": "‚Ï‚¿‚Ï‚¿",
-    "face": "(ß„DßÉÉ™ÊßÁÊßÁÊßÁÊßÁ"
-  },
-  {
-    "annotation": "‚Ï‚¿‚Ï‚¿",
     "face": "(*'„t'ÉÉŞ™ÊßÁÊßÁÊßÁ"
   },
   {
@@ -11426,14 +8946,6 @@
   {
     "annotation": "‚®‚Ê‚Ê",
     "face": "(;`¥`¥)‚®‚Ê‚Êc"
-  },
-  {
-    "annotation": "‚µ‚ñ‚¬‚¿‚ã‚¤",
-    "face": "yR‹c’†z(L¥ƒÖ¥)L¥ƒÖ)(ƒÖ¥`(¥ƒÖ¥`)"
-  },
-  {
-    "annotation": "‚¦‚Á‚Æ",
-    "face": "(L¥ƒÖ¥)y-~´Äc"
   },
   {
     "annotation": "‚ ‚è‚á‚è‚á",
@@ -11477,10 +8989,6 @@
   },
   {
     "annotation": "‚²[‚ñ",
-    "face": "(;ß„tß)ºŞ°İ"
-  },
-  {
-    "annotation": "‚²[‚ñ",
     "face": "(LßƒÖß`;)½Ş°İ"
   },
   {
@@ -11500,24 +9008,12 @@
     "face": "+(oß¥Í¥)+Ü¸Ü¸Ã¶Ã¶+"
   },
   {
-    "annotation": "‚Ü‚ñ‚¹[",
-    "face": "R(L[`)ƒmÏİ¾°"
-  },
-  {
-    "annotation": "‚Î‚ñ‚¶‚á[‚¢",
-    "face": "¿(¥ƒÖ¥)¿‚Î‚ñ‚¶‚á[‚¢"
-  },
-  {
     "annotation": "‚¨‚¤‚¢‚¦[",
     "face": "(dßƒÖßd)µ©²ª°ô"
   },
   {
     "annotation": "‚¨‚¤‚¢‚¦[",
     "face": "‡”d(ßÍßd)«©¨ª!!"
-  },
-  {
-    "annotation": "‚¤‚¥[‚¢",
-    "face": "R(ßÍß)É‚¤‚¥„Ÿ„Ÿ„Ÿ‚¡ô"
   },
   {
     "annotation": "‚Ñ‚¥[‚ñ",
@@ -11610,34 +9106,6 @@
   {
     "annotation": "‚©‚¿‚ñ",
     "face": "(ß„Dß)¶Áİ"
-  },
-  {
-    "annotation": "‚Õ‚ñ‚·‚±",
-    "face": "(#ß„Dß)Ìßİ½º"
-  },
-  {
-    "annotation": "‚Õ‚ñ‚·‚©",
-    "face": "o(*`ƒÖL*)oÌßİ½¶"
-  },
-  {
-    "annotation": "‚Ñ‚«‚Ñ‚«",
-    "face": "(#^ƒÖ^)ËŞ·ËŞ·"
-  },
-  {
-    "annotation": "‚Ş‚«[",
-    "face": "R(#`„DL)ÉÑ·°!!"
-  },
-  {
-    "annotation": "‚Ş‚Á‚©[",
-    "face": "(#ß„Dß)Ñ¯¶°"
-  },
-  {
-    "annotation": "‚Ş[",
-    "face": "(*`ªL*)Ñ°"
-  },
-  {
-    "annotation": "‚Ş[",
-    "face": "(`¥ƒÃ¥L)Ñ°"
   },
   {
     "annotation": "‚²‚ç",
@@ -11749,10 +9217,6 @@
   },
   {
     "annotation": "‚°‚ë‚°‚ë",
-    "face": "(;L„D`)¹ŞÛ¹ŞÛ"
-  },
-  {
-    "annotation": "‚°‚ë‚°‚ë",
     "face": "(*>„t<*)¹Ş¯"
   },
   {
@@ -11813,10 +9277,6 @@
   },
   {
     "annotation": "‚É‚â‚è",
-    "face": "(P[P)ÆÔØ"
-  },
-  {
-    "annotation": "‚É‚â‚è",
     "face": "(L¥Í¥`)ÆÔ"
   },
   {
@@ -11830,10 +9290,6 @@
   {
     "annotation": "‚È‚©‚æ‚µ‚±‚æ‚µ",
     "face": "Å¶Ö¼(*u„tulu„tu*)ºÖ¼"
-  },
-  {
-    "annotation": "‚¯‚±[‚ñ",
-    "face": "¹º„ª„ª„ª(¥Í¥)l(¥Í¥)„ª„ª„ªİ"
   },
   {
     "annotation": "‚±‚¿‚å‚±‚¿‚å",
@@ -11864,14 +9320,6 @@
     "face": "ƒhƒ“ƒ}ƒC(L¥ƒÖ¥)É(LÉ„DG`)"
   },
   {
-    "annotation": "‚ª‚ñ‚ª‚ê",
-    "face": "(,,ß„Dß)¶Şİ¶ŞÚ"
-  },
-  {
-    "annotation": "‚Ó‚Ÿ‚¢‚Æ[‚¢‚Á‚Ï[‚Â",
-    "face": "Ì§²Ä„Ÿ„Ÿ!!(ß„tß)˜§(ß„tß)²¯Êß„Ÿ„ŸÂ!!"
-  },
-  {
     "annotation": "‚®‚Á‚¶‚å‚Ô",
     "face": "„Œ(ß„Dß)¸Ş¯¼Ş®ÌŞ!!"
   },
@@ -11882,10 +9330,6 @@
   {
     "annotation": "‚ ‚Á[",
     "face": "ƒAƒb[I‡”(*L„t`*)"
-  },
-  {
-    "annotation": "‚â‚ç‚È‚¢‚©",
-    "face": "‚m|\"ß'`{\"ßMlØ‚â‚ç‚È‚¢‚©"
   },
   {
     "annotation": "‚¤‚Á‚Ù",
@@ -11925,275 +9369,15 @@
   },
   {
     "annotation": "‚¨[‚¢",
-    "face": "(£ß„Dß)£µ°²"
-  },
-  {
-    "annotation": "‚¨[‚¢",
-    "face": "(£¥Í¥)£µ°²"
-  },
-  {
-    "annotation": "‚¨[‚¢",
     "face": "(*'ÉÍ')É‚¨[‚¢"
-  },
-  {
-    "annotation": "‚ ‚¢[‚ñ",
-    "face": "(QL„D`)±²[İ"
-  },
-  {
-    "annotation": "‚ ‚¢‚â[",
-    "face": "(`ƒnL)±²Ô°"
-  },
-  {
-    "annotation": "‚ ‚¤‚ ‚¤",
-    "face": "(^p^)‚ ‚¤‚ ‚¤‚ ["
-  },
-  {
-    "annotation": "‚ ‚¤‚ ‚¤‚ [",
-    "face": "(^p^)‚ ‚¤‚ ‚¤‚ ["
-  },
-  {
-    "annotation": "‚ ‚¿‚¡",
-    "face": "(;L„t`)U±Á¨°"
-  },
-  {
-    "annotation": "‚ ‚¿‚¡[",
-    "face": "(;L„t`)U±Á¨°"
-  },
-  {
-    "annotation": "‚ ‚Í‚Ÿ",
-    "face": "(*L„t`*)±Ê§"
-  },
-  {
-    "annotation": "‚ ‚Ú[‚ñ",
-    "face": "ƒ¿ƒÀƒÍƒÍƒÅ_ƒÓ(ßÍß)"
-  },
-  {
-    "annotation": "‚ ‚è‚ª‚Æ‚¿‚á[‚ñ",
-    "face": "±Ø¶ŞÄÁ¬„ª„ª„ª(LÍ`)„ª„ª„ªİ!!!!"
-  },
-  {
-    "annotation": "‚ ‚è‚á",
-    "face": "‡”(ß„Dß;)±Ø¬"
-  },
-  {
-    "annotation": "‚ ‚é‚¥",
-    "face": "(¥‚R¥)±Ùª°"
-  },
-  {
-    "annotation": "‚¢‚¢‚ñ‚Å‚Ë[‚Ì",
-    "face": "(ß„xß)²²İÃŞÈ°É?"
-  },
-  {
-    "annotation": "‚¢‚¶‚ß‚©‚±‚í‚é‚¢",
-    "face": "(¥Í¥)²¼ŞÒ¶ºÜÙ²"
-  },
-  {
-    "annotation": "‚¢‚Á‚Ä‚­‚é",
-    "face": "È||ÈÀ¯Ã¸Ù"
-  },
-  {
-    "annotation": "‚¢‚Ë[",
-    "face": "²È„ª„ª„ª„ª„ª(ß„tß;)„ª„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚¢‚â[",
-    "face": "(;L„D`)²Ô§§§§!!"
-  },
-  {
-    "annotation": "‚¢‚é‚Ë",
-    "face": "(ß„wß)²ÙÈ"
-  },
-  {
-    "annotation": "‚¤‚¥",
-    "face": "‚¤‚¥www‚¤‚¥www‚¤‚¥‚Áwwwwww"
-  },
-  {
-    "annotation": "‚¤‚¥",
-    "face": "R(ßÍ¡)É³ª"
-  },
-  {
-    "annotation": "‚¤‚í",
-    "face": "(;LÍ`)‚¤‚íc"
-  },
-  {
-    "annotation": "‚¤‚í",
-    "face": "‡”(ß„tßÉ)É³Ü¯"
-  },
-  {
-    "annotation": "‚¤‚ñ‚±[",
-    "face": "R(¥Í¥)Éœ³İº°"
-  },
-  {
-    "annotation": "‚¦‚¦‚¶‚á‚È‚¢‚©",
-    "face": "R(ß„tß)ƒm‚¦‚¦‚¶‚á‚È‚¢‚©"
-  },
-  {
-    "annotation": "‚¨‚¿‚á",
-    "face": "(L¥ƒÖ¥)‚Á’U"
-  },
-  {
-    "annotation": "‚¨‚¿‚á",
-    "face": "(ß„Dß)‚Á’U"
-  },
-  {
-    "annotation": "‚¨‚Ó‚¡[‚³",
-    "face": "(ß„Dß)ÉµÌ¨°»"
-  },
-  {
-    "annotation": "‚¨‚Ü‚¦‚ª‚È[",
-    "face": "('Í')µÏ´¶ŞÅ°"
-  },
-  {
-    "annotation": "‚¨‚Ü‚¦‚à‚È[",
-    "face": "(LÍ`)µÏ´ÓÅ°"
-  },
-  {
-    "annotation": "‚©[‚¿‚á‚ñ",
-    "face": "J('°`)‚µ"
-  },
-  {
-    "annotation": "‚©‚¦‚é",
-    "face": "(¥Í¥)¶´Ù!!"
-  },
-  {
-    "annotation": "‚©‚İ‚«‚½[",
-    "face": "_·À„ª„ª„ª„ª(ßÍß)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚©‚İ‚Ì‚æ‚©[‚ñ",
-    "face": "(ßÍß)_‚ÌÖ¶°İ"
-  },
-  {
-    "annotation": "‚«‚ç[‚ñ",
-    "face": "(P[+P)·×°İ"
   },
   {
     "annotation": "‚­[‚é[",
     "face": "(*ß„xß)9))¸°Ù©°"
   },
   {
-    "annotation": "‚­‚³[",
-    "face": "¸»„ª„ª„ª„ª„ª(`„DL)„ª„ª„ª„ª„ª¯!!"
-  },
-  {
-    "annotation": "‚­‚¿‚Ô‚¦",
-    "face": "ô`(LƒÃ`)"
-  },
-  {
-    "annotation": "‚®‚Ó‚Ó",
-    "face": "(`ƒÖL)¸ŞÌÌ"
-  },
-  {
-    "annotation": "‚­‚é[",
-    "face": "¸Ù„ª„ª„ª„ª„ª(ßÍß)„ª„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚¯‚¢‚ê‚¢",
-    "face": "/)`¥ƒÖ¥L)"
-  },
-  {
-    "annotation": "‚¯‚Á‚³‚­",
-    "face": "(LŞ`)¹¯»¸"
-  },
-  {
-    "annotation": "‚±‚¢‚Â[",
-    "face": "º²Â°(LÍ`)ƒĞ)„tß)"
-  },
-  {
-    "annotation": "‚²‚Î[‚­",
-    "face": "ºŞÊŞ„ª„ª„ª„ª„ª(ßÍß)„ª„ª„ª„ª„ª¸!!!!"
-  },
-  {
-    "annotation": "‚±‚ç‚â‚ß‚½‚Ü‚¦",
-    "face": "(`¥„t¥L)º×¤ÔÒÀÏ´!!"
-  },
-  {
-    "annotation": "‚±‚ñ‚Ê‚Â‚í",
-    "face": "(¥ƒÖ¥)ºİÇÂÜ"
-  },
-  {
-    "annotation": "‚³‚¢‚©‚¢",
-    "face": "-------ÄŠJ-------"
-  },
-  {
-    "annotation": "‚³‚°",
-    "face": "q(ß„tß)«sage«"
-  },
-  {
-    "annotation": "‚µ‚¡",
-    "face": "(*ß[ß)"
-  },
-  {
-    "annotation": "‚¶‚¥‚¢‚ [‚é",
-    "face": "JR„ª„Ÿ„ª„Ÿ„ª(ßÍß)„ª„Ÿ„ª„Ÿ„ª!!!!"
-  },
-  {
-    "annotation": "‚µ‚ß‚¶",
-    "face": "(ß„tß)¼Ò¼Ş"
-  },
-  {
-    "annotation": "‚µ‚á‚«[‚ñ",
-    "face": "(`¥ƒÖ¥L)"
-  },
-  {
-    "annotation": "‚µ‚ã‚¤‚è‚å‚¤",
-    "face": "…“~—¹_ƒÓ(ßÍß)"
-  },
-  {
-    "annotation": "‚µ‚å‚Ú‚¢‚È",
-    "face": "(L¥ƒÖ¥`)¼®ÎŞ²Å"
-  },
-  {
-    "annotation": "‚¶‚ñ‚¹‚¢‚¨‚í‚½",
-    "face": "|©÷ŠC|l¶µÜÀ„¯(^o^)„­O"
-  },
-  {
-    "annotation": "‚·‚²‚¢‚·‚²‚¢",
-    "face": "R[ß„Dß]ÉÊ²½ºŞ²½ºŞ²"
-  },
-  {
     "annotation": "‚¹[‚Ó",
     "face": "¼(^ƒÖ^)½¾Ì¾Ì"
-  },
-  {
-    "annotation": "‚¹‚Ó‚¹‚Ó",
-    "face": "¼(^ƒÖ^)½¾Ì¾Ì"
-  },
-  {
-    "annotation": "‚½‚·‚¯‚ê",
-    "face": "‚Â„D`)À½¹Ú"
-  },
-  {
-    "annotation": "‚½‚¾‚µ",
-    "face": "¦"
-  },
-  {
-    "annotation": "‚¾‚é[",
-    "face": "„¡„§L„t`„¥„¢ÀŞÙ°"
-  },
-  {
-    "annotation": "‚¿‚å‚Á‚Æ‚±‚¢",
-    "face": "(L_T`)İJÁ®¯Äº²"
-  },
-  {
-    "annotation": "‚¿‚å‚Á‚Æ‚±‚¢‚â",
-    "face": "(ß„Dß)İJÁ®¯Äº²Ô"
-  },
-  {
-    "annotation": "‚Â‚¤‚Ù‚¤‚µ‚Ü‚·‚½",
-    "face": "m9(`„DL)’Ê•ñ‚µ‚Ü‚·‚½!!"
-  },
-  {
-    "annotation": "‚Â‚¤‚Ù‚¤‚µ‚Ü‚·‚½",
-    "face": "m9(¥Í¥)’Ê•ñ‚µ‚Ü‚·‚½!!"
-  },
-  {
-    "annotation": "‚Â‚Ü‚ñ‚Ë",
-    "face": "(ß‡™ß)ÂÏİÈ"
-  },
-  {
-    "annotation": "‚Â‚é‚Û",
-    "face": "(o¥ƒÖ¥o)ƒcƒ‹ƒ|"
   },
   {
     "annotation": "‚Å‚Á",
@@ -12204,78 +9388,6 @@
     "face": "‚ÅH(¥L°¥`)"
   },
   {
-    "annotation": "‚Ç‚¤‚µ‚Ä‚±‚¤‚È‚Á‚½",
-    "face": "‚Ç‚¤‚µ‚Ä‚±‚¤‚È‚Á‚½(^ƒÖ^)ô"
-  },
-  {
-    "annotation": "‚Ç‚é‚Ÿ",
-    "face": "(#ß„Dß)“ÊÄŞÙ§!!"
-  },
-  {
-    "annotation": "‚Æ‚ñ‚Ç‚é",
-    "face": "±¯Ë¬¯Ë¬!!R(ßÍß)É‡d‡j!!‡d‡j!!"
-  },
-  {
-    "annotation": "‚Æ‚ñ‚Ç‚é",
-    "face": "‡d‡jIR(ßÍß)É‡d‡jI"
-  },
-  {
-    "annotation": "‚É‚á‚ñ‚Û‚±[",
-    "face": "(ßƒÖß)Æ¬İÎßº°"
-  },
-  {
-    "annotation": "‚É‚ã",
-    "face": "(^ƒË^)"
-  },
-  {
-    "annotation": "‚Ê‚é‚Û",
-    "face": "(LÍ`)‚Ê‚é‚Û"
-  },
-  {
-    "annotation": "‚Ë‚½‚É‚Ü‚¶‚ê‚·",
-    "face": "ÈÀÆÏ¼ŞÚ½(¥Í¥)¶º²²!!"
-  },
-  {
-    "annotation": "‚Ë‚½‚É‚Ü‚¶‚ê‚·",
-    "face": "ÈÀÆÏ¼ŞÚ½(¥Í¥)¶ºÜÙ²!!"
-  },
-  {
-    "annotation": "‚Ë‚Ş[",
-    "face": "(ƒm„D`)~ß¡ÈÑ°"
-  },
-  {
-    "annotation": "‚Ë‚Ş‚Ğ[",
-    "face": "(ß„Dß)ÈÑË°"
-  },
-  {
-    "annotation": "‚Ë‚ê‚Ë[",
-    "face": "ÈÚÈ„ª„ª„ª„ª„ª(ß„Dß;)„ª„ª„ª„ª„ª!!"
-  },
-  {
-    "annotation": "‚Ë‚ê‚Ë[‚æ",
-    "face": "(¥Í¥)ÈÚÈ°Ö!!"
-  },
-  {
-    "annotation": "‚Í‚¢‚Í‚¢",
-    "face": "(¥ƒÖ¥)‚Í‚¢‚Í‚¢ƒƒƒXƒƒƒX"
-  },
-  {
-    "annotation": "‚Ï‚µ‚á",
-    "face": "Êß¼¬¯!!‡”p[[]]ƒÖ¥L)"
-  },
-  {
-    "annotation": "‚Ğ‚Á‚µ‚¾‚È",
-    "face": "(Lß,_Tß)Ë¯¼ÀŞÅ"
-  },
-  {
-    "annotation": "‚Ğ‚Ç‚¢‚æ",
-    "face": "(;#)„D`;)cËÄŞ²Ö"
-  },
-  {
-    "annotation": "‚Ô[‚ñ",
-    "face": "(^ƒÖ^)"
-  },
-  {
     "annotation": "‚¨‚È‚ç",
     "face": "(ß„tß(l)=3ÌŞ¯"
   },
@@ -12284,92 +9396,8 @@
     "face": "›|P|Q=3ÌŞ¯"
   },
   {
-    "annotation": "‚Ô‚Á‚­‚¨‚Ó",
-    "face": "|©BOOKOFF|O„¬(^o^)„®‡I"
-  },
-  {
-    "annotation": "‚Ó‚Á‚¶‚³[‚ñ",
-    "face": "^^o^_Ì¯¼Ş»°İ"
-  },
-  {
-    "annotation": "‚Ø‚µ",
-    "face": "‡”(ÉÍ`)Íß¼¯"
-  },
-  {
-    "annotation": "‚Ù‚µ‚ã",
-    "face": "(LƒÏ`)Î¼­"
-  },
-  {
-    "annotation": "‚Ü‚©‚¹‚ë",
-    "face": "Ğƒ¿(ß„Dß)Ï¶¾Û!!"
-  },
-  {
-    "annotation": "‚Ü‚¶",
-    "face": "‡”(ß„Dß;)Ï¼Ş¯"
-  },
-  {
-    "annotation": "‚İ‚ñ‚È[",
-    "face": "^|L¥ƒÖ¥`|_/|L¥ƒÖ¥`|_‚İ‚ñ‚È`"
-  },
-  {
-    "annotation": "‚à‚¤‚±‚Ë‚¦‚æ",
-    "face": "R(`„DL)ÉÓ³ºÈ´Ö!!"
-  },
-  {
-    "annotation": "‚à‚¤‚Ç‚¤‚É‚Å‚à‚È[‚ê",
-    "face": "‚à‚¤‚Ç‚¤‚É‚Å‚à‚È`‚ê¿(L¥ƒÖ¥`)‚Â„Ÿ*ß+¡¥ß¥¡*ß+"
-  },
-  {
-    "annotation": "‚à‚È[",
-    "face": "ÓÅ„ª„ª„ª„ª(LÍ`)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚à‚É‚ã",
-    "face": "(¥ƒÖ¥)ÓÆ­?"
-  },
-  {
-    "annotation": "‚à‚é[",
-    "face": "ÓÙ„ª„ª„ª„ª(ßÍ(*)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚â‚ß‚Ä[",
-    "face": "R(;L„D`)ÉÔÒÃ°"
-  },
-  {
-    "annotation": "‚ä‚Ñ‚«‚è",
-    "face": "(ß„tß)db(ß„tß)ÕËŞ·Ø"
-  },
-  {
-    "annotation": "‚æ‚©[‚ñ",
-    "face": "(ßÍß)Ö¶°İ"
-  },
-  {
-    "annotation": "‚í‚Á‚µ‚å‚¢",
-    "face": "Ü¯¼®²R(ßÍß)ÉÜ¯¼®²"
-  },
-  {
-    "annotation": "‚í‚ë‚·",
-    "face": "m9(^„D^)ÜÛ½wwwwwwwwww"
-  },
-  {
-    "annotation": "‚ [‚ [",
-    "face": "(¿ß„tß)±°±°‚«‚±‚¦‚È[‚¢"
-  },
-  {
-    "annotation": "‚ ‚«‚½‚æ",
-    "face": "(ß„tß)±·ÀÖc"
-  },
-  {
-    "annotation": "‚ ‚Á‚»",
-    "face": "(LƒÇ_`)±¯¿"
-  },
-  {
     "annotation": "‚ ‚Á‚»",
     "face": "ƒ(¥L°¥`)„„¡„®„¡„®‚ ‚Á‚»"
-  },
-  {
-    "annotation": "‚ ‚Á‚¿‚¢‚¯",
-    "face": "±¯Á(¥Í¥)²¹!!"
   },
   {
     "annotation": "‚¢‚Á‚Ä‚æ‚µ",
@@ -12384,24 +9412,12 @@
     "face": "d('„D'o)‰EÖ¼(o'„D')b¶Ö¼(ƒĞ'Í')ƒĞÀ¯ÃÖ¼"
   },
   {
-    "annotation": "‚¢‚Á‚Ä‚æ‚µ",
-    "face": "‰EÖ¼d(L„D`)O(L„D`)b¶Ö¼(LÍ`)bÀ¯ÃÖ¼"
-  },
-  {
     "annotation": "‚¢‚Á‚Ä‚æ‚¿",
     "face": "(¡¥„t¥)bÀ‚Á‚Ä‚æ‚¿"
   },
   {
     "annotation": "‚¢‚Á‚Ä‚æ‚¿",
     "face": "(ƒĞL„t`)ƒĞš„ŸÀ‚Á‚Ä‚æ‚¿„Ÿš"
-  },
-  {
-    "annotation": "‚¤‚´[",
-    "face": "³»Ş„ª„ª„ª„ª(LÍ`;)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚¤‚º",
-    "face": "(ß‡™ß)³¾Ş"
   },
   {
     "annotation": "‚¤‚º[",
@@ -12412,72 +9428,12 @@
     "face": "UZEEEEEEES(o'„D'o)ÉEEEEEEEE!!!!"
   },
   {
-    "annotation": "‚¤‚º[",
-    "face": "UZEEEEEEEES(ß„Dß)ÉEEEEEEEEEE!!!!"
-  },
-  {
     "annotation": "‚¨‚í‚Á‚Æ‚é",
     "face": "(¥Í¥)ƒI‡hƒ‹"
   },
   {
-    "annotation": "‚©‚¦‚ê",
-    "face": "(¥Í¥)¶´Ú!!"
-  },
-  {
-    "annotation": "‚©‚©‚Á‚Ä‚±‚¢",
-    "face": "¶¶¯Ãº²„‹(ß„Dß„‹)"
-  },
-  {
-    "annotation": "‚©‚í‚¢‚»‚·",
-    "face": "(L¥ƒÖ¥)¶Ü²¿½"
-  },
-  {
-    "annotation": "‚«‚±‚¦‚È[‚¢",
-    "face": "(¿ß„tß)±°±°‚«‚±‚¦‚È[‚¢"
-  },
-  {
-    "annotation": "‚«‚İ‚ë‚è",
-    "face": "m9(^„D^)‡`‡_"
-  },
-  {
-    "annotation": "‚«‚à[",
-    "face": "(;L;ß;„v;ß;`;)·Ó°"
-  },
-  {
-    "annotation": "‚«‚à[",
-    "face": "(L„D`)·Ó°"
-  },
-  {
-    "annotation": "‚«‚à[",
-    "face": "·Ó„ª„ª„ª„ª(L„D`)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚­‚é‚­‚é‚Ï[",
-    "face": "¸Ù¸ÙƒĞ—(ßÍß)Êß°!?"
-  },
-  {
-    "annotation": "‚³‚Á‚µ",
-    "face": "(L¥„t¥`)‚ c(@‚µ)"
-  },
-  {
-    "annotation": "‚´‚Ü‚Ÿ",
-    "face": "m9(^„D^)‚´‚Ü‚Ÿwwwwww"
-  },
-  {
-    "annotation": "‚´‚Ü[",
-    "face": "m9(^„D^)‚´‚Ü‚Ÿwwwwww"
-  },
-  {
-    "annotation": "‚µ‚å‚Ú",
-    "face": "(LßƒÖß`)¼®ÎŞ¯"
-  },
-  {
     "annotation": "‚Â‚Ü‚ñ‚Ë",
     "face": "(;^ƒÖ^)‚¤‚í¤‚Â‚Ü‚ñ‚Ë"
-  },
-  {
-    "annotation": "‚Ì‚ë‚¢‚Ü[‚·",
-    "face": "(ƒ³„Dƒ³)ô‚¢‚Ü[‚·"
   },
   {
     "annotation": "‚Î[‚©",
@@ -12489,31 +9445,7 @@
   },
   {
     "annotation": "‚Î[‚©",
-    "face": "(L¥„t¥`)ÊŞ°¶"
-  },
-  {
-    "annotation": "‚Î[‚©",
-    "face": "(¥Í¥)/S``„´„­"
-  },
-  {
-    "annotation": "‚Î[‚©",
     "face": "„«„«N„ª(ƒĞ-`„t¥L)„ª„´„­"
-  },
-  {
-    "annotation": "‚Î[‚©",
-    "face": "ÊŞ°¶S(ß„tß)ÉJ"
-  },
-  {
-    "annotation": "‚Î[‚â",
-    "face": "R(`„DL)ÉÊŞ°Ô"
-  },
-  {
-    "annotation": "‚Í‚¢‚Í‚¢",
-    "face": "(L,_T`)Ê²Ê²"
-  },
-  {
-    "annotation": "‚Í‚¢‚Í‚¢",
-    "face": "'`¨'`¨„¢(L„D`„¡"
   },
   {
     "annotation": "‚Î‚©",
@@ -12524,46 +9456,14 @@
     "face": "ƒÆ©ƒoƒJ‚ÉŒø‚­–ò"
   },
   {
-    "annotation": "‚Î‚©‚¶‚á‚Ë[‚Ì",
-    "face": "(ß,_Tß)ÊŞ¶¼Ş¬È°É"
-  },
-  {
-    "annotation": "‚Î‚©‚ë‚è[‚½",
-    "face": "m9(LÍ`)ƒo‡iƒ^"
-  },
-  {
-    "annotation": "‚Ó‚Ÿ‚Á‚«‚ã[",
-    "face": "Ì§¯·­„ª„ª„ª(#ß„Dß)“Ê„ª„ª„ª„ª!!!!"
-  },
-  {
     "annotation": "‚Ó‚Ÿ‚Á‚­",
     "face": "Ì§¯·­„ª„ª„ª(#ß„Dß)“Ê„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚Ú‚¯",
-    "face": "(ß„Dß)³Ş«¹!!"
-  },
-  {
-    "annotation": "‚ß‚µ‚¤‚Ü",
-    "face": "(^„D^)Ò¼³Ïwwwwww"
-  },
-  {
-    "annotation": "‚æ‚é‚È",
-    "face": "(ß„Dß)„¡ÖÙÅ"
-  },
-  {
-    "annotation": "‚ñ‚²",
-    "face": "ƒ“ƒSwww¡ß(ß^„D^ß)ß¡"
   },
   {
     "annotation": "‚¢‚Á‚Ä‚æ‚µ",
     "face": "(#LÍ`)bÀ¯ÃÖ¼"
   },
   {
-    "annotation": "‚¢‚Á‚Ä‚æ‚µ",
-    "face": "(ß„Dß)²¯ÃÖ¼"
-  },
-  {
     "annotation": "‚Ó‚Ÿ‚Á‚«‚ã[",
     "face": "(ÒßMß)“Ê"
   },
@@ -12572,92 +9472,16 @@
     "face": "(ÒßMß)“Ê"
   },
   {
-    "annotation": "‚Ó‚Ÿ‚Á‚«‚ã[",
-    "face": "(#ß„Dß)“Ê"
-  },
-  {
     "annotation": "‚Ó‚Ÿ‚Á‚­",
     "face": "(#ß„Dß)“Ê"
   },
   {
-    "annotation": "‚Ó‚Ÿ‚Á‚«‚ã[",
-    "face": "(*`„D')“Ê"
-  },
-  {
     "annotation": "‚Ó‚Ÿ‚Á‚­",
     "face": "(*`„D')“Ê"
-  },
-  {
-    "annotation": "‚ ‚Ÿ[",
-    "face": "o„§*L„D`*„¥o±§°"
-  },
-  {
-    "annotation": "‚ ‚Ô‚Ë[",
-    "face": "±ÌŞÈ„ª„ª„ª‡”(ß„tß;)„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚ ‚ç‚â‚¾",
-    "face": "(;ß„Dß)±×ÔÀŞ"
-  },
-  {
-    "annotation": "‚ ‚ç‚â‚¾",
-    "face": "(ß„Dß)±×ÔÀŞ"
-  },
-  {
-    "annotation": "‚¢‚¢‚±‚Æ‚¢‚Á‚½",
-    "face": "(¥Í¥)²²ºÄ²¯À!!"
-  },
-  {
-    "annotation": "‚¢‚¢‚Ë",
-    "face": "(¥Í¥)²²È!!"
-  },
-  {
-    "annotation": "‚¢‚¢‚Í‚È‚µ‚¾‚È[",
-    "face": "(GÍG)²²ÊÅ¼ÀŞÅ°"
-  },
-  {
-    "annotation": "‚¢‚¢‚æ",
-    "face": "(¥Í¥)²²Ö²²Ö°"
-  },
-  {
-    "annotation": "‚¤‚ [‚ñ",
-    "face": "¡ßR(ß`„DLß)Éß¡³§§§§§İ"
   },
   {
     "annotation": "‚¤‚¨‚¨",
     "face": "ƒIƒ^¢‚¤‚¨‚¨‚¨‚¨‚¨‚¨‚¨‚¨I£"
-  },
-  {
-    "annotation": "‚¤‚¨‚¨",
-    "face": "R(;`„DL)É‚¤‚¨‚¨‚¨‚¨‚¨‚¨I"
-  },
-  {
-    "annotation": "‚¤‚»‚Å‚·",
-    "face": "¥:*:¥d(*LÍ`*)b‚¤‚»‚Å‚·¥:*:¥"
-  },
-  {
-    "annotation": "‚¤‚Á‚Õ",
-    "face": "(L„w`;)³¯Ìßc"
-  },
-  {
-    "annotation": "‚¤‚Í",
-    "face": "(^„D^)‚¤‚Íwwwwwwwwww"
-  },
-  {
-    "annotation": "‚¤‚Ğ‚å[",
-    "face": "(ß„Dß)³Ë®°"
-  },
-  {
-    "annotation": "‚¤‚Ğ‚å[",
-    "face": "³Ë®„ª„ª„ª„ªR(ß„Dß)É„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚¤‚Ü[",
-    "face": "(ß„tß)³Ï°"
-  },
-  {
-    "annotation": "‚¦‚Á‚¿",
-    "face": "µÆ°Á¬İ(*¥Í¥*)´¯Á°!!"
   },
   {
     "annotation": "‚¨‚±‚¾‚æ",
@@ -12668,128 +9492,16 @@
     "face": "(*Éªß)bš„Ÿ‚¨Œ©–„Ÿš"
   },
   {
-    "annotation": "‚¨‚à‚·‚ê[",
-    "face": "(^ƒÖ^)‚¨‚à‚·‚ê["
-  },
-  {
-    "annotation": "‚©‚±‚¢‚¢",
-    "face": "¶º(¥Í¥)²²!!"
-  },
-  {
-    "annotation": "‚©‚¿‚®‚İ",
-    "face": "(^[^)^_(^-^)¶Á¸ŞĞ"
-  },
-  {
-    "annotation": "‚©‚È‚µ‚¢‚È[",
-    "face": "(GÍG)¶Å¼²Å°"
-  },
-  {
     "annotation": "‚©‚ç‚Ì[",
     "face": "‚©[‚ç[‚Ì[H(¥Í¥)"
-  },
-  {
-    "annotation": "‚©‚ñ‚Ç[‚µ‚½",
-    "face": "(GÍG)¶İÄŞ°¼À"
-  },
-  {
-    "annotation": "‚«‚á‚Í[",
-    "face": "·¬Ê„ª„ª„ª„ª„ª(#ßÛß#)„ª„ª„ª„ª„ª¯!!!!"
   },
   {
     "annotation": "‚¬‚ë",
     "face": "·ŞÛ¯-¥-'`-¥-"
   },
   {
-    "annotation": "‚°[‚Á‚Â",
-    "face": "¹Ş„ª„ª„ª„ª(ƒĞ¥Í¥)ƒĞ„ª„ª„ª„ª¯Â!!"
-  },
-  {
-    "annotation": "‚¯‚Á",
-    "face": "(`„tL)¹¯"
-  },
-  {
-    "annotation": "‚³‚­‚¹‚·",
-    "face": "R(^ƒÖ^)É»¸¾½I"
-  },
-  {
-    "annotation": "‚³‚ñ‚©‚Á‚¯[",
-    "face": "¢"
-  },
-  {
-    "annotation": "‚µ‚á‚«[‚ñ",
-    "face": "(`¥ƒÖ¥L)¼¬·°İ"
-  },
-  {
-    "annotation": "‚µ‚á‚­[‚Ù",
-    "face": "¼¬¸„ª„ª„ª||›(ßÍß)›||„ª„ª„ªÎ!!!!"
-  },
-  {
-    "annotation": "‚µ‚ã‚¤‚è‚å‚¤",
-    "face": "-------I—¹-------"
-  },
-  {
-    "annotation": "‚µ‚å‚ñ‚È[",
-    "face": "(LGƒÖG`)¼®İÅ°"
-  },
-  {
-    "annotation": "‚·‚°[",
-    "face": "‡”(ß„Dß)½¯¤½¹Ş°!!"
-  },
-  {
-    "annotation": "‚·‚°[",
-    "face": "SUGEEEEEEEER(ß„Dß)ÉEEEEEEEEEEE!!!!"
-  },
-  {
-    "annotation": "‚·‚°[",
-    "face": "½¹Ş„ª„ª„ª„ª„ªR(ß„Dß)É„ª„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚·‚¸‚·‚¡[",
-    "face": "`(LÍ``)½½Ş½¨°"
-  },
-  {
-    "annotation": "‚·‚Î‚ç‚·‚¡",
-    "face": "(;L„D`)½¯¤½ÊŞ×½¨"
-  },
-  {
-    "annotation": "‚·‚ñ‚·‚ñ‚·[‚ñ",
-    "face": "(¥Í¥)½İ½İ½°İô"
-  },
-  {
-    "annotation": "‚»‚ê‚¾",
-    "face": "(¥Í¥)¿ÚÀŞ!!"
-  },
-  {
-    "annotation": "‚»‚ê‚¾",
-    "face": "m9(ß„tß)‚Á¿ÚÀŞ¯!!"
-  },
-  {
     "annotation": "‚½[‚ñ",
     "face": ";y=°(ß„tß)¥;'.¤À°İ"
-  },
-  {
-    "annotation": "‚½‚¢[‚Ù",
-    "face": "À²„ª„ª||ƒ³|(|L|„D|`|)|ƒ³||„ª„ªÎ!!!!"
-  },
-  {
-    "annotation": "‚½‚Ì‚µ‚¢‚ê‚·",
-    "face": "‚½‚Ì‚µ‚¢‚ê‚·(^q^)"
-  },
-  {
-    "annotation": "‚½‚Í[",
-    "face": "(ÉÍ`)ÀÊ°"
-  },
-  {
-    "annotation": "‚½‚è[",
-    "face": "‚ÂL„D`)‚ÂÀØ°"
-  },
-  {
-    "annotation": "‚¿‚²‚¢‚Ë",
-    "face": "(¥Í¥)ÁºŞ²È"
-  },
-  {
-    "annotation": "‚¿‚å",
-    "face": "(;^ƒÖ^)‚¿‚åwwwwwwwwww"
   },
   {
     "annotation": "‚Â‚Ú",
@@ -12800,72 +9512,16 @@
     "face": "„°N„°N„°N(ß„Dß;)ÄŞ°¼Ö"
   },
   {
-    "annotation": "‚Ç‚©[‚ñ",
-    "face": "(#ß„tß)ÄŞ¶°İ"
-  },
-  {
-    "annotation": "‚Ç‚Á",
-    "face": "_(^o^)^‚Ç‚ÁI_(^o^)^"
-  },
-  {
     "annotation": "‚Ç‚Ç‚Ç‚Ç[‚µ‚æ",
     "face": "„°N„°N„°N(ß„Dß;)ÄŞ°¼Ö"
-  },
-  {
-    "annotation": "‚Æ‚à‚¾[‚¿",
-    "face": "ĞİÅR(ßÍß)l(ßÍß)l(ßÍß)ÉÄÓÀŞ°Á"
-  },
-  {
-    "annotation": "‚Æ‚ç‚¤‚Ü[",
-    "face": "(;ß„Dß)Ä×³Ï°"
-  },
-  {
-    "annotation": "‚È‚­‚È",
-    "face": "¥ß¥(É„D`)R(ß„Dß)Å¸Å"
-  },
-  {
-    "annotation": "‚È‚¯‚½",
-    "face": "ƒÅƒ¿ƒÈƒÃƒÑƒ¿_Y(GƒÖq`)"
   },
   {
     "annotation": "‚É‚¡[",
     "face": "*ß¡+(nLv`n)+¡ß*Æ¨-"
   },
   {
-    "annotation": "‚Ì[",
-    "face": "É««„ª„ª„ª„ª„ª(ß„tß;)„ª„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚Í‚¶‚Ü‚½",
-    "face": "_(^o^)^Ê¼ŞÏÀ"
-  },
-  {
-    "annotation": "‚Ï‚Á",
-    "face": "R(ßÍß)ÉÊß¯"
-  },
-  {
-    "annotation": "‚Í‚Á‚·‚é",
-    "face": "Ê¯½Ù!!„¤(ßÍß„¤)(„£ßÍß)„£Ê¯½Ù!!"
-  },
-  {
     "annotation": "‚Ğ‚¬[",
     "face": "(>„D<(–)‚Ğ‚¬‚¡[I"
-  },
-  {
-    "annotation": "‚Ğ‚¬‚¡[",
-    "face": "(>„D<(–)‚Ğ‚¬‚¡[I"
-  },
-  {
-    "annotation": "‚Ò‚á[",
-    "face": "(`ƒFL)Ëß¬°"
-  },
-  {
-    "annotation": "‚Ñ‚ë[‚ñ",
-    "face": "ËŞÛ°İo<L¥ƒÖ¥`>o"
-  },
-  {
-    "annotation": "‚Ñ‚ñ‚²[",
-    "face": "(ß„tß)ËŞİºŞ°"
   },
   {
     "annotation": "‚Ô[‚Ô[",
@@ -12884,100 +9540,16 @@
     "face": "ÌŞ©„ª„ª„ªq(`ƒÃL)„ª„ª„ª!!"
   },
   {
-    "annotation": "‚Ó‚¶‚±",
-    "face": "‚­‚Ÿw‚¹drftgy‚Ó‚¶‚±|p"
-  },
-  {
-    "annotation": "‚Õ‚É‚ã",
-    "face": "ÌßÆ­(ß„tß)ƒĞ)„D`)"
-  },
-  {
-    "annotation": "‚Ô‚Ú‚Ú",
-    "face": "ƒuƒ{ƒ{(`GƒÖGL)ÓÜ¯"
-  },
-  {
     "annotation": "‚Ô‚í",
     "face": "(L;„t;`)ÌŞÜ¯"
-  },
-  {
-    "annotation": "‚Ó‚ñ",
-    "face": "(`,_¥¥L)Ìİ¯"
   },
   {
     "annotation": "‚Ø‚½‚Ÿ",
     "face": "_(_L¥-¥)_‚Ø‚½‚Ÿ"
   },
   {
-    "annotation": "‚Ú[‚Ì",
-    "face": "(ƒĞß„tß)³Ş«°É"
-  },
-  {
-    "annotation": "‚Û[‚ñ",
-    "face": "Îß°İ(„D)ÜYÜYÜ...¡..¡ºÛºÛ"
-  },
-  {
-    "annotation": "‚Ú‚±‚Ú‚±‚É‚µ‚Ä‚â‚ñ‚æ",
-    "face": "‚Ú‚±‚Ú‚±‚É‚µ‚Ä‚â‚ñ‚æ(¥ƒÖ¥)‚Áß‚ÂÊŞÊŞÊŞÊŞ"
-  },
-  {
-    "annotation": "‚Ù‚¶‚Ù‚¶",
-    "face": "Î¼ŞÎ¼Ş(LƒĞ_`)Îß²(L_T`)ƒĞÜß"
-  },
-  {
     "annotation": "‚Ü‚¶‚Á‚·‚©",
     "face": "Ï¼Ş¯½ƒ•‡”(ßƒÃßoÉ)É"
-  },
-  {
-    "annotation": "‚Ü‚¶‚Å",
-    "face": "‡”(¥Í¥;)Ï¼ŞÃŞ¯"
-  },
-  {
-    "annotation": "‚Ü‚¶‚Å‚·‚©",
-    "face": "‡”(`„DL)ÏÁŞÃŞ½¶!?"
-  },
-  {
-    "annotation": "‚Ü‚¸[",
-    "face": "(ß„tß)Ï½Ş°"
-  },
-  {
-    "annotation": "‚Ü‚º‚Ä‚­‚ê‚æ",
-    "face": "R(`„DL)ÉÏ¾ŞÃ¸ÚÖ"
-  },
-  {
-    "annotation": "‚İ‚È‚¬‚Á‚Ä‚«‚½",
-    "face": "‚İw‚Èw‚¬w‚Áw‚Äw‚«w‚½www"
-  },
-  {
-    "annotation": "‚à‚«‚ã[",
-    "face": "(*LƒÖ`*)Ó·­°ô"
-  },
-  {
-    "annotation": "‚à‚ç‚¢‚È‚«‚µ‚¿‚á‚½[‚æ",
-    "face": "¥ß¥(É„D`)S(G„DG)Ó×²Å·¼Á¬À°Ö"
-  },
-  {
-    "annotation": "‚â‚Á‚Ä‚­‚ê‚é",
-    "face": "(¥Í¥)Ô¯Ã¸ÚÙ!!"
-  },
-  {
-    "annotation": "‚â‚×",
-    "face": "(;ß„Dß)ÔÍŞ¯"
-  },
-  {
-    "annotation": "‚â‚×[",
-    "face": "ÔÍŞ„ª„ª„ª„ª„ªR(ß„Dß)É„ª„ª„ª„ª„ª!!!!"
-  },
-  {
-    "annotation": "‚â‚ß‚½‚Ü‚¦",
-    "face": "(`¥„t¥L)ÔÒÀÏ´!!"
-  },
-  {
-    "annotation": "‚í‚ç‚½",
-    "face": "(^„D^)Ü×Àwwwwwwwwww"
-  },
-  {
-    "annotation": "‚í‚ë‚½",
-    "face": "¡ß(ß^Í^ß)ß¡ÜÛÀwwwwwwwwww"
   },
   {
     "annotation": "‚¿‚á‚¨",
@@ -13000,16 +9572,8 @@
     "face": "‚Ç‚à(¥ƒÖl)‚Ç‚à"
   },
   {
-    "annotation": "‚Ù‚£",
-    "face": "(ß„tß)Î©"
-  },
-  {
     "annotation": "‚Ù[‚£",
     "face": "Î„ª„ª„ª(ß„tß)„ª„ª„ª©"
-  },
-  {
-    "annotation": "‚¦‚Æ",
-    "face": "(L¥ƒÖ¥)y-~´Äc"
   },
   {
     "annotation": "‚¸[‚ñ",
@@ -13026,10 +9590,6 @@
   {
     "annotation": "‚¸[‚ñ",
     "face": "(;ß„tß)ºŞ°İ"
-  },
-  {
-    "annotation": "‚¸[‚ñ",
-    "face": "(LßƒÖß`;)½Ş°İ"
   },
   {
     "annotation": "‚¸[‚ñ",
@@ -13050,22 +9610,6 @@
   {
     "annotation": "‚Ô‚é",
     "face": "‡”(((*ßªß*)))ÌŞÙ¯"
-  },
-  {
-    "annotation": "‚È‚ñ‚¾‚Á‚Ä[",
-    "face": "ƒ¶ƒ¶ƒ¶<Å¤ÅİÀŞ¯Ã°!!"
-  },
-  {
-    "annotation": "‚È‚ñ‚¾‚Á‚Ä[",
-    "face": "(;ß„Dß)Å¤ÅİÀŞ¯Ã°!!(ß„Dß;(ß„Dß;)"
-  },
-  {
-    "annotation": "‚È‚ñ‚¾‚Á‚Ä[",
-    "face": "(;¥`„t¥L)Å¤ÅİÀŞ¯Ã°!!(`¥„tL¥(`¥„tL¥;)"
-  },
-  {
-    "annotation": "‚ ‚ñ‚Ñ‚è[‚Î‚Ú",
-    "face": "R(;ß„tß)É±İËŞØÊŞ°ÎŞ"
   },
   {
     "annotation": "‚æ‚¿‚æ‚¿",
