@@ -1,0 +1,24 @@
+{
+  "name": "kaomoji-json",
+  "version": "0.0.1",
+  "description": "Kaomoji (顔文字) JSON data in UTF-8 & Shift-JIS formats.",
+  "author": {
+    "name": "Peter Graham",
+    "url": "https://github.com/6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/6/kaomoji-json.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "coffee-script": "1.7.1",
+    "glob": "4.0.3",
+    "gulp": "3.8.6",
+    "iconv-lite": "0.4.3"
+  }
+}
