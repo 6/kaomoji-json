@@ -13,9 +13,12 @@ gulp.task "(ﾟзﾟ)ｲｲﾝﾃﾞﾈｰﾉ?", (callback) ->
     for row in data.split("\n")
       continue  if row.match(IgnoredRowRegex)
       rowParts = row.split(/\s+/)
+      rowParts.pop() # Pop off "顔文字"
+      annotation = rowParts.shift()
+      face = rowParts.join("")
       faces.push({
-        annotation: rowParts[0]
-        face: rowParts[1]
+        annotation: annotation
+        face: face
       })
   facesJSON = JSON.stringify(faces, undefined, 2)
   fs.writeFileSync("kao-shiftjis.json", iconv.encode(facesJSON, "shift_jis"))
