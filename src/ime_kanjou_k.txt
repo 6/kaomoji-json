@@ -1,0 +1,243 @@
+!Microsoft IME Dictionary Tool
+!DateTime: 
+!Šç•¶ŽšƒXƒe[ƒVƒ‡ƒ“
+J‚Ê	‡”(-Í-É)É	Šç•¶Žš
+J‚Ê	‡”(o'„t'o)	Šç•¶Žš
+J‚Ê	‡”(¡E„DE¡)	Šç•¶Žš
+J‚Ê	‡”(ß„tß*)	Šç•¶Žš
+J‚Ê	‡”(ßžßÉ)É	Šç•¶Žš
+J‚Ê	(*MÛLÉ)É	Šç•¶Žš
+J‚Ê	‡”(ßƒÖßÉ)É	Šç•¶Žš
+J‚Ê	(@ß„tß@)	Šç•¶Žš
+J‚Ê	(Lß„tßM)	Šç•¶Žš
+J‚Ê	‡”(*ßªß*)	Šç•¶Žš
+J‚Ê	‡”(EƒÖEÉ)ÉI	Šç•¶Žš
+J‚Ó	(*ÉƒÃM*)	Šç•¶Žš
+J‚Ó	(*EƒÃE*)	Šç•¶Žš
+J‚Ó	(ƒmƒÖM*)	Šç•¶Žš
+J‚Ó	(*'ƒÖ'*)	Šç•¶Žš
+J‚Ó	(*-Í-)U	Šç•¶Žš
+J‚Ó	(ÉÍß*)	Šç•¶Žš
+J‚Ó	(*ßªß*)	Šç•¶Žš
+J‚Ó	(*LÍM*)	Šç•¶Žš
+J‚Ó	(*LªM*)	Šç•¶Žš
+J‚Ó	(VƒÖV)	Šç•¶Žš
+J‚Ó	(*ÉªÉ)	Šç•¶Žš
+J‚Ó	(*ß[ß*)	Šç•¶Žš
+J‚Ó	(EƒÃEM*)	Šç•¶Žš
+J‚Ó	(L>Í<M)T	Šç•¶Žš
+J‚Ó	(ƒm¤V)	Šç•¶Žš
+J‚ 	(ß‡™ß)	Šç•¶Žš
+J‚ 	(#ßŽMß)	Šç•¶Žš
+J‚ 	(MƒFL)	Šç•¶Žš
+J‚ 	(MƒÖL)	Šç•¶Žš
+J‚ 	(MƒÃL*)	Šç•¶Žš
+J‚ 	R(*MªL*)É	Šç•¶Žš
+J‚ 	R(M„DL)É	Šç•¶Žš
+J‚ 	(MEƒÖEL)	Šç•¶Žš
+J‚ 	(#ß„Dß)	Šç•¶Žš
+J‚ 	(*M´L*)	Šç•¶Žš
+J‚ 	(ME„tEL)	Šç•¶Žš
+J‚¤	R(*OƒÖO*)É	Šç•¶Žš
+J‚¤	R(VÍV)É	Šç•¶Žš
+J‚¤	(Ê_,Ê)b	Šç•¶Žš
+J‚¤	(ƒÐßÍß)ƒÐ	Šç•¶Žš
+J‚¤	(b'3`*)	Šç•¶Žš
+J‚¤	(*Éªß)b	Šç•¶Žš
+J‚¤	‡”d(ßÍßd)	Šç•¶Žš
+J‚¤	(‚'Í'l)	Šç•¶Žš
+J‚¤	S(*'Í`*)É	Šç•¶Žš
+J‚¤	S(LEÍE)É	Šç•¶Žš
+J‚¤	o(*>¤<*)o	Šç•¶Žš
+J‚¤	R(†¤…)É	Šç•¶Žš
+J‚¤	R(L[M)É	Šç•¶Žš
+J‚¤	R(LÍM)É	Šç•¶Žš
+J‚¦	¡E ßE¡* ¡ +ß¡E¡* ß + ¡EßE(É„D`)	Šç•¶Žš
+J‚¦	(ßLƒÖMß)	Šç•¶Žš
+J‚¦	EßE(ß‚¤ªLß)EßE	Šç•¶Žš
+J‚¦	EßE(*É„DÉ)EßE	Šç•¶Žš
+J‚¦	¡ßR(ßM„DLß)Éß¡	Šç•¶Žš
+J‚¦	( GÍG)	Šç•¶Žš
+J‚¦	(ƒmÍGM)	Šç•¶Žš
+J‚¦	(LGƒÖGM)	Šç•¶Žš
+J‚¦	¡ß(P„D`q*)ß¡	Šç•¶Žš
+J‚¦	(LG„tGM)	Šç•¶Žš
+J‚¨	(LßªßM)	Šç•¶Žš
+J‚¨	(LE_EM)	Šç•¶Žš
+J‚¨	(LEªEM)	Šç•¶Žš
+J‚¨	(ƒmƒÖ=M)	Šç•¶Žš
+J‚¨	(¡EL_ME¡)	Šç•¶Žš
+J‚¨	(LE„tEM)	Šç•¶Žš
+J‚¨	(L-„t-)-3	Šç•¶Žš
+J‚¨	(¡LE_EM¡)	Šç•¶Žš
+J‚¨	( L„DM )	Šç•¶Žš
+J‚¨	Q|P|›	Šç•¶Žš
+J‚¨	„¢(L„tM)„¡	Šç•¶Žš
+J‚¨	(LEƒÖEM)	Šç•¶Žš
+J‚¨	il|li@•@il|li	Šç•¶Žš
+J‚â	ƒÃ=ƒÃ=ƒÃ= „¡(GLßªß)„£	Šç•¶Žš
+J‚â	(((*>„t<*)))	Šç•¶Žš
+J‚â	((( Gß„Dß)))	Šç•¶Žš
+J‚â	(GL„D`)	Šç•¶Žš
+J‚â	(LƒÖ`G)	Šç•¶Žš
+J‚â	(GLEƒÖE)	Šç•¶Žš
+J‚â	(ƒmÍMG)	Šç•¶Žš
+J‚â	(G-ƒÖ-)U	Šç•¶Žš
+J‚â	(GßÍß)	Šç•¶Žš
+J‚â	‡”(ß„tßG)	Šç•¶Žš
+J‚â	( ßƒÖßG)	Šç•¶Žš
+J‚ä	ßE¡E(ÉÍß)ƒÐE¡Eß	Šç•¶Žš
+J‚ä	¡ß(ßOÍOß)ß¡	Šç•¶Žš
+J‚ä	(*ÉƒÃM )ƒÐ	Šç•¶Žš
+J‚ä	(ÎLEä‡E)	Šç•¶Žš
+J‚ä	(*†ä‡…)	Šç•¶Žš
+J‚ä	( *OŽMO)	Šç•¶Žš
+J‚ä	(Ê_,Ê)	Šç•¶Žš
+J‚ä	¡ß(ƒmÍ`*)ß¡	Šç•¶Žš
+J‚ä	(*Eä‡E)	Šç•¶Žš
+J‚ä	(ÉÍM)	Šç•¶Žš
+J‚ä	(EÍE)	Šç•¶Žš
+J‚ä	( *Lä‡M)	Šç•¶Žš
+J‚ä	((LÍM*))	Šç•¶Žš
+J‚æ	(¡-Í-)É	Šç•¶Žš
+J‚æ	(*ßªß)É	Šç•¶Žš
+J‚æ	(*LªM)É	Šç•¶Žš
+J‚æ	(*L[M)É	Šç•¶Žš
+J‚æ	(¡EƒÖE¡)É	Šç•¶Žš
+J‚æ	(¡E‚—E¡)T	Šç•¶Žš
+J‚æ	(oLÍMo)É	Šç•¶Žš
+J‚æ	(‚'Í'‚)É	Šç•¶Žš
+J‚æ	(†¤…)U	Šç•¶Žš
+J‚æ	(LƒÖM)É¼	Šç•¶Žš
+J‚æ	(*'„D'*)É¼	Šç•¶Žš
+J‚æ	( *'3`)É	Šç•¶Žš
+J‚æ	(œßƒFß)ƒm	Šç•¶Žš
+J‚æ	(¡EÍE)É	Šç•¶Žš
+J‚æ	(* 'ƒÖ')É	Šç•¶Žš
+J‚í	ƒÓ(BB)	Šç•¶Žš
+J‚í	m(__)m	Šç•¶Žš
+J‚í	(>_<)	Šç•¶Žš
+J‚í	(E_E)	Šç•¶Žš
+J‚í	(T-T)	Šç•¶Žš
+J‚í	(ToT)	Šç•¶Žš
+J‚í	(-_-;)	Šç•¶Žš
+J‚í	(-_-)	Šç•¶Žš
+J‚í	(^^;	Šç•¶Žš
+J‚í	(^^)	Šç•¶Žš
+J‚í	(^o^)/	Šç•¶Žš
+J‚í	(^o^)	Šç•¶Žš
+J‚í	(*^o^*)	Šç•¶Žš
+J‚í	(^_-)-™	Šç•¶Žš
+J‚í	(^_^)	Šç•¶Žš
+J‚í	(^-^;	Šç•¶Žš
+J‚í	(*^-^*)	Šç•¶Žš
+J‚í	(^-^U	Šç•¶Žš
+J‚í	(^-^)	Šç•¶Žš
+J‚í	o(^-^)o	Šç•¶Žš
+J‚Ê‚Ê	„°N„ª„ª„ª„ª(*ß„Dß*)„ª„ª„ª„ªƒ“	Šç•¶Žš
+J‚Ê‚Ê	´ª´ª´ª´ª´ª´(ßƒÖßÉ)É´ª´ª´ª´ª´ª´	Šç•¶Žš
+J‚Ê‚Ê	(LßƒÖß)E*;'.AÌÞ¯	Šç•¶Žš
+J‚Ê‚Ê	‡”(*ß„tß*)Ê¯!!	Šç•¶Žš
+J‚Ê‚Ê	‡”(E„tEÉ)ÉËÞ¸¯	Šç•¶Žš
+J‚Ê‚Ê	(¡E„DE¡)ÝÏ¯!!	Šç•¶Žš
+J‚Ê‚Ê	‡”(*E„DE*)´¯	Šç•¶Žš
+J‚Ê‚Ê	(Gß„tß)ª...................	Šç•¶Žš
+J‚Ê‚Ê	ÅÆÕÕ­­­­­­­(*MÛL*É)É	Šç•¶Žš
+J‚Ê‚Ê	(Lß„DßM)ÝÏ¯!!	Šç•¶Žš
+J‚Ê‚Ê	( ßÍß)E;'.A¸ÞÊ¯!!	Šç•¶Žš
+J‚Ê‚Ê	HHƒGƒGƒFƒF(*L„DM*)ƒFƒFƒGƒGHH	Šç•¶Žš
+J‚Ó‚Ó	Ê½Þ¶¼¨EE(*pƒÖq*)	Šç•¶Žš
+J‚Ó‚Ó	((*ƒm„t`*)ƒÐ))Ó¼ÞÓ¼Þ	Šç•¶Žš
+J‚Ó‚Ó	(*ß‰vß)U´ÍÍ	Šç•¶Žš
+J‚Ó‚Ó	²Ô„ª„ª„ª„ª(*£LªM)£„ª„ª„ª„ªÝ	Šç•¶Žš
+J‚Ó‚Ó	·¬¯(/„D_*))((*/„t_)·¬¯	Šç•¶Žš
+J‚Ó‚Ó	(ÉÍM*)ÍßÁ	Šç•¶Žš
+J‚Ó‚Ó	(*ÉƒÖÉ)·¬¯(*ÉƒÖE)TÁ×¯	Šç•¶Žš
+J‚Ó‚Ó	(*/Í_*)²ÔÝ	Šç•¶Žš
+J‚Ó‚Ó	(É)ª(S)ÑÆ­	Šç•¶Žš
+J‚Ó‚Ó	(*LªM*)Îß¯	Šç•¶Žš
+J‚Ó‚Ó	(ƒÃ-M*)l(*L-„x)Îß¯	Šç•¶Žš
+J‚Ó‚Ó	·¬„Ÿ„Ÿ„Ÿ(*É„tÉ)„Ÿ„Ÿ„Ÿ§	Šç•¶Žš
+J‚Ó‚Ó	(L>Í<M)T))´ÍÍ	Šç•¶Žš
+J‚Ó‚Ó	(PÍMq*)ÃÚ	Šç•¶Žš
+J‚Ó‚Ó	(VÉ„tÉ)ÃÚ	Šç•¶Žš
+J‚Ó‚Ó	((Éª`*)‚Á))À¼À¼	Šç•¶Žš
+J‚Ó‚Ó	(V¤V)Îß¯	Šç•¶Žš
+J‚ ‚ 	-E-@@@@ -E-@·ÞÛ¯!!	Šç•¶Žš
+J‚ ‚ 	UZEEEEEEES(o'„D'o)ÉEEEEEEEE!!	Šç•¶Žš
+J‚ ‚ 	d('„D'‚)‰EÖ¼I(‚'„D')b¶Ö¼I(ƒÐ'Í')ƒÐ À¯ÃÖ¼I	Šç•¶Žš
+J‚ ‚ 	(ƒÐL„tM)ƒÐ š„ŸÀ‚Á‚Ä‚æ‚¿„Ÿš	Šç•¶Žš
+J‚ ‚ 	ÌÞ„ª„ª„ª(‚ß3ß)p„ª„ª„ªô	Šç•¶Žš
+J‚ ‚ 	„«„«N„ª(ƒÐ-M„tEL)„ª „´„­	Šç•¶Žš
+J‚ ‚ 	R(*MŽML*)É·¨¨„Ÿ„Ÿ!!!!	Šç•¶Žš
+J‚ ‚ 	R(*M„DL*)ÉºÞÙ§§±!!	Šç•¶Žš
+J‚ ‚ 	ÌßØo(*M3L*)oÌßØ	Šç•¶Žš
+J‚ ‚ 	S(oß„Dßo)ÉÞ¶Þ«°!!	Šç•¶Žš
+J‚ ‚ 	(MƒFL) Ëß¬°	Šç•¶Žš
+J‚ ‚ 	(MEƒÖEL)¼¬·°Ý	Šç•¶Žš
+J‚¤‚¤	(*L„t`*)‚§ô	Šç•¶Žš
+J‚¤‚¤	(É*L„DM)ÉƒIƒHƒIƒH	Šç•¶Žš
+J‚¤‚¤	„°NƒL(*Lª`*)„°NƒL	Šç•¶Žš
+J‚¤‚¤	‚í‚­‚í‚­ ((pEƒÖEq)) ‚í‚­‚í‚­	Šç•¶Žš
+J‚¤‚¤	ÙÝô ((‚'Í'‚)) ÙÝô	Šç•¶Žš
+J‚¤‚¤	Ô¯À„ª„ª„ª( pßÍß)q„ª„ª„ª„ª!!	Šç•¶Žš
+J‚¤‚¤	R( E¤E )É ×§°Ýô	Šç•¶Žš
+J‚¤‚¤	v(MTƒÖEL)·¬Ëß¨™	Šç•¶Žš
+J‚¤‚¤	™„Ÿ(ƒmß„Dß)”ª(ß„Dß )ƒm²´„Ÿ²	Šç•¶Žš
+J‚¤‚¤	‡”d(ßÍßd)«©¨ª!!	Šç•¶Žš
+J‚¤‚¤	·À„ª„ª„ª„ª(ßÍß)„ª„ª„ª„ª!!	Šç•¶Žš
+J‚¤‚¤	Ü§„Ÿ„Ÿ„ŸR(VvV)É„Ÿ„Ÿ„Ÿ²	Šç•¶Žš
+J‚¤‚¤	‚¨‚§I(* 'Í'l)	Šç•¶Žš
+J‚¤‚¤	ß+¡ß(ÉME„DE)ÉƒIƒHƒIƒHß¡+ß	Šç•¶Žš
+J‚¤‚¤	(‚ÁLÍMc)·­Ý·­°Ý	Šç•¶Žš
+J‚¤‚¤	*ß¡+(nLvMn)+¡ß* Æ¨-	Šç•¶Žš
+J‚¤‚¤	S(*LÍ`*)É ·¬¯·¬¯ô	Šç•¶Žš
+J‚¦‚¦	¡ß(ßOÍOß)ß¡ÌÞª°	Šç•¶Žš
+J‚¦‚¦	¡ß(œ'ƒÖ'o)ß¡‚¤‚é‚¤‚é	Šç•¶Žš
+J‚¦‚¦	ƒDÜ§„Ÿ„Ÿ„ŸR(ßM„DLß)É„Ÿ„Ÿ„Ÿ§§Ý!!	Šç•¶Žš
+J‚¦‚¦	¡ß(ßLƒÖMß)ß¡Ëß°	Šç•¶Žš
+J‚¦‚¦	¡EßE(*É„D`*)EßE¡³Ü§°Ý	Šç•¶Žš
+J‚¦‚¦	Ò¿Ò¿(¡p„tq¡)Ò¿Ò¿	Šç•¶Žš
+J‚¦‚¦	ËÞª„Ÿ„ŸEßE(¡>„t<¡)EßE„Ÿ„ŸÝ!!	Šç•¶Žš
+J‚¦‚¦	¡ß(*É„DÉ)ß¡‚í`‚ñ	Šç•¶Žš
+J‚¦‚¦	(ƒmƒÖGM)¼¸¼¸	Šç•¶Žš
+J‚¦‚¦	(LG„tGM)³¯EE	Šç•¶Žš
+J‚¨‚¨	ºÞ„Ÿ„Ÿ„Ÿ(llL„tM)„Ÿ„Ÿ„ŸÝ	Šç•¶Žš
+J‚¨‚¨	²¼Þ²¼Þ( L-ƒÖ-)ƒÐ—	Šç•¶Žš
+J‚¨‚¨	(*EƒÃE*)Ñ°	Šç•¶Žš
+J‚¨‚¨	(¡LE_EM¡)Ó°	Šç•¶Žš
+J‚¨‚¨	EAƒÉ@Áª¯	Šç•¶Žš
+J‚¨‚¨	Ê§EE(ƒmƒÖG)	Šç•¶Žš
+J‚¨‚¨	(llß„tß)ºÞ°Ý	Šç•¶Žš
+J‚¨‚¨	Ó³ÀÞÒÎß(ƒm„DMG)	Šç•¶Žš
+J‚¨‚¨	(L-ª-M)¼­Ý¼­Ý	Šç•¶Žš
+J‚¨‚¨	Á„Ÿ„Ÿ„Ÿ(LßªßM)„Ÿ„Ÿ„ŸÝ	Šç•¶Žš
+J‚¨‚¨	Ê§EE(¡LE_EM)-3	Šç•¶Žš
+J‚¨‚¨	Q|P|œ ¶Þ¯¸Ø	Šç•¶Žš
+J‚¨‚¨	(LEƒÖEM)¼®ÎÞ[Ý	Šç•¶Žš
+J‚â‚â	±ÀÌÀ((R(GL„DM)É))±ÀÌÀ	Šç•¶Žš
+J‚â‚â	ÄÞ·„Ÿ„Ÿ„Ÿ‡”(ß„DßG)„Ÿ„Ÿ„ŸÝ!!	Šç•¶Žš
+J‚â‚â	Ë¨„Ÿ„Ÿ„Ÿ„Ÿ(É)ß„Dß(R)„Ÿ„Ÿ„Ÿ„Ÿ!!	Šç•¶Žš
+J‚â‚â	[—lŽqŒ©]®ßƒÖßG)	Šç•¶Žš
+J‚â‚â	·Þ¸¯I(M„tLÉ)É	Šç•¶Žš
+J‚â‚â	‡”„¤(*ßÛß*)„£·Þ¸¯	Šç•¶Žš
+J‚â‚â	‚£‚ „Ÿ„Ÿ„Ÿ(((G'„D' )))„Ÿ„Ÿ„Ÿ!!!!	Šç•¶Žš
+J‚â‚â	‡”((*ß„tß*))ÄÞ·¯	Šç•¶Žš
+J‚â‚â	„°N„°N„°N(ß„DßG)ÄÞ°¼Ö	Šç•¶Žš
+J‚â‚â	ÌßÙÌßÙ((( ß„tßG)))ÌßÙÌßÙ	Šç•¶Žš
+J‚â‚â	( ßÍßG)À×°	Šç•¶Žš
+J‚â‚â	(ME„tLEG)ºÞ¸Ø	Šç•¶Žš
+J‚ä‚ä	(¡EL_,ME¡)ÌßÌß¯	Šç•¶Žš
+J‚ä‚ä	m9O„DO)m9O„DO)m9O„DO)Ìß·Þ¬°!!	Šç•¶Žš
+J‚ä‚ä	(@L,_TM)Ìß¯	Šç•¶Žš
+J‚ä‚ä	( *OŽMO)³¼¼¼¼	Šç•¶Žš
+J‚ä‚ä	ƒ–×ƒ–×((ƒmÍ`*))ƒ–×ƒ–×	Šç•¶Žš
+J‚ä‚ä	±Ë¬I(*ÉÍ'*)ƒÐ	Šç•¶Žš
+J‚ä‚ä	_@ƒhƒbI@^@@_@ƒAƒnƒnƒnƒnII@^	Šç•¶Žš
+J‚ä‚ä	R(L[M)É Ì¯	Šç•¶Žš
+J‚ä‚ä	(oO„ŸOo)Æº¯	Šç•¶Žš
+J‚ä‚ä	(EÍE)Æ§Æ§	Šç•¶Žš
+J‚ä‚ä	(*ƒmÍM)±ÊÊ”ª”ªÉRÉRÉRÉ _ / _/ _	Šç•¶Žš
+J‚ä‚ä	S(†¤…)É‚ ‚Í‚Í‚ÍI	Šç•¶Žš
+J‚ä‚ä	((LÍM))ƒ–×x2	Šç•¶Žš
+J‚ä‚ä	( *Lä‡M)¸½¸½	Šç•¶Žš

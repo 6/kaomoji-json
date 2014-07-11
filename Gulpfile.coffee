@@ -4,7 +4,7 @@ glob = require("glob")
 iconv = require("iconv-lite")
 
 # Comments or unannotated kaomoji
-IgnoredRowRegex = /^(ｂ|ｊ|ｋ|!|・|かおすて|.+＠|.+・)/
+IgnoredRowRegex = /^(ｂ|ｊ|ｋ|!|゜|゛|・|かおすて|.+＠|.+・)/
 
 gulp.task "(ﾟзﾟ)ｲｲﾝﾃﾞﾈｰﾉ?", (callback) ->
   faces = []
